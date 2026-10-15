@@ -1,0 +1,32 @@
+[
+ {
+  "reference": "CB-7955184",
+  "transaction_reference": "PSP-30468290",
+  "order_ref": "CHW-010409",
+  "amount": 580000,
+  "currency": "NGN",
+  "reason": "duplicate",
+  "status": "lost",
+  "created_at": "2026-09-28T18:43:37Z"
+ },
+ {
+  "reference": "CB-5088550",
+  "transaction_reference": "PSP-51331106",
+  "order_ref": "CHW-010609",
+  "amount": 160000,
+  "currency": "NGN",
+  "reason": "duplicate",
+  "status": "lost",
+  "created_at": "2026-10-11T16:15:44Z"
+ },
+ {
+  "reference": "CB-4786842",
+  "transaction_reference": "PSP-12880489",
+  "order_ref": "CHW-010289",
+  "amount": 540000,
+  "currency": "NGN",
+  "reason": "fraud",
+  "status": "open",
+  "created_at": "2026-09-20T13:27:51Z"
+ }
+]

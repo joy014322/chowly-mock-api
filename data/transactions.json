@@ -1,0 +1,6572 @@
+[
+ {
+  "reference": "PSP-73373933",
+  "order_ref": "CHW-010001",
+  "amount": 412250,
+  "fee": 16184,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T09:45:26Z"
+ },
+ {
+  "reference": "PSP-21787692",
+  "order_ref": "CHW-010003",
+  "amount": 1317500,
+  "fee": 29762,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T12:56:15Z"
+ },
+ {
+  "reference": "PSP-88499564",
+  "order_ref": "CHW-010004",
+  "amount": 1095000,
+  "fee": 26425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T13:12:37Z"
+ },
+ {
+  "reference": "PSP-37992791",
+  "order_ref": "CHW-010006",
+  "amount": 620000,
+  "fee": 19300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-01T13:17:57Z"
+ },
+ {
+  "reference": "PSP-31512434",
+  "order_ref": "CHW-010005",
+  "amount": 270000,
+  "fee": 14050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T13:27:33Z"
+ },
+ {
+  "reference": "PSP-49346703",
+  "order_ref": "CHW-010007",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-01T17:53:33Z"
+ },
+ {
+  "reference": "PSP-52484453",
+  "order_ref": "CHW-010008",
+  "amount": 860000,
+  "fee": 22900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T18:25:22Z"
+ },
+ {
+  "reference": "PSP-94745914",
+  "order_ref": "CHW-010009",
+  "amount": 500000,
+  "fee": 17500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-01T18:32:08Z"
+ },
+ {
+  "reference": "PSP-29433198",
+  "order_ref": "CHW-010010",
+  "amount": 355000,
+  "fee": 15325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-01T18:39:31Z"
+ },
+ {
+  "reference": "PSP-70994887",
+  "order_ref": "CHW-010011",
+  "amount": 980000,
+  "fee": 24700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-01T19:05:16Z"
+ },
+ {
+  "reference": "PSP-26389509",
+  "order_ref": "CHW-010012",
+  "amount": 720000,
+  "fee": 20800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-01T19:26:43Z"
+ },
+ {
+  "reference": "PSP-23854464",
+  "order_ref": "CHW-010014",
+  "amount": 238000,
+  "fee": 3570,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-02T11:27:34Z"
+ },
+ {
+  "reference": "PSP-16441251",
+  "order_ref": "CHW-010015",
+  "amount": 710000,
+  "fee": 20650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-02T11:39:10Z"
+ },
+ {
+  "reference": "PSP-12523450",
+  "order_ref": "CHW-010016",
+  "amount": 945000,
+  "fee": 24175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-02T12:22:46Z"
+ },
+ {
+  "reference": "PSP-49774457",
+  "order_ref": "CHW-010018",
+  "amount": 369750,
+  "fee": 15546,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-02T15:41:12Z"
+ },
+ {
+  "reference": "PSP-68566679",
+  "order_ref": "CHW-010019",
+  "amount": 290000,
+  "fee": 14350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-02T15:51:32Z"
+ },
+ {
+  "reference": "PSP-67727440",
+  "order_ref": "CHW-010020",
+  "amount": 1330000,
+  "fee": 29950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-02T17:04:48Z"
+ },
+ {
+  "reference": "PSP-69807993",
+  "order_ref": "CHW-010021",
+  "amount": 170000,
+  "fee": 2550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-02T18:59:26Z"
+ },
+ {
+  "reference": "PSP-24182636",
+  "order_ref": "CHW-010022",
+  "amount": 160000,
+  "fee": 2400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-02T19:44:10Z"
+ },
+ {
+  "reference": "PSP-71746134",
+  "order_ref": "CHW-010023",
+  "amount": 1640000,
+  "fee": 34600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-02T19:51:20Z"
+ },
+ {
+  "reference": "PSP-12148743",
+  "order_ref": "CHW-010025",
+  "amount": 1560000,
+  "fee": 33400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-02T21:01:44Z"
+ },
+ {
+  "reference": "PSP-93591804",
+  "order_ref": "CHW-010026",
+  "amount": 1130000,
+  "fee": 26950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T09:27:19Z"
+ },
+ {
+  "reference": "PSP-29720829",
+  "order_ref": "CHW-010027",
+  "amount": 1405000,
+  "fee": 31075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-03T09:50:13Z"
+ },
+ {
+  "reference": "PSP-27901703",
+  "order_ref": "CHW-010028",
+  "amount": 370000,
+  "fee": 15550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T09:59:40Z"
+ },
+ {
+  "reference": "PSP-74600740",
+  "order_ref": "CHW-010029",
+  "amount": 515000,
+  "fee": 17725,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T11:47:36Z"
+ },
+ {
+  "reference": "PSP-73054131",
+  "order_ref": "CHW-010031",
+  "amount": 265000,
+  "fee": 13975,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T13:00:59Z"
+ },
+ {
+  "reference": "PSP-72076750",
+  "order_ref": "CHW-010032",
+  "amount": 561000,
+  "fee": 18415,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T13:06:44Z"
+ },
+ {
+  "reference": "PSP-79541755",
+  "order_ref": "CHW-010033",
+  "amount": 190000,
+  "fee": 12850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T15:03:07Z"
+ },
+ {
+  "reference": "PSP-42355065",
+  "order_ref": "CHW-010034",
+  "amount": 225000,
+  "fee": 3375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-03T15:36:41Z"
+ },
+ {
+  "reference": "PSP-89103873",
+  "order_ref": "CHW-010036",
+  "amount": 1232500,
+  "fee": 28488,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T17:42:08Z"
+ },
+ {
+  "reference": "PSP-78094385",
+  "order_ref": "CHW-010035",
+  "amount": 450000,
+  "fee": 16750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T17:51:25Z"
+ },
+ {
+  "reference": "PSP-44564221",
+  "order_ref": "CHW-010038",
+  "amount": 340000,
+  "fee": 15100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T19:05:59Z"
+ },
+ {
+  "reference": "PSP-97659435",
+  "order_ref": "CHW-010040",
+  "amount": 670000,
+  "fee": 20050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-03T19:55:50Z"
+ },
+ {
+  "reference": "PSP-61708235",
+  "order_ref": "CHW-010041",
+  "amount": 920000,
+  "fee": 23800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T20:27:05Z"
+ },
+ {
+  "reference": "PSP-71217508",
+  "order_ref": "CHW-010042",
+  "amount": 860000,
+  "fee": 22900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-03T22:36:27Z"
+ },
+ {
+  "reference": "PSP-57697677",
+  "order_ref": "CHW-010043",
+  "amount": 355000,
+  "fee": 15325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T10:15:51Z"
+ },
+ {
+  "reference": "PSP-61096086",
+  "order_ref": "CHW-010044",
+  "amount": 1098000,
+  "fee": 26470,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T11:16:15Z"
+ },
+ {
+  "reference": "PSP-66686792",
+  "order_ref": "CHW-010046",
+  "amount": 975000,
+  "fee": 24625,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T11:24:03Z"
+ },
+ {
+  "reference": "PSP-86280164",
+  "order_ref": "CHW-010045",
+  "amount": 386750,
+  "fee": 15801,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T11:27:14Z"
+ },
+ {
+  "reference": "PSP-47170671",
+  "order_ref": "CHW-010048",
+  "amount": 335750,
+  "fee": 15036,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T12:37:15Z"
+ },
+ {
+  "reference": "PSP-79770654",
+  "order_ref": "CHW-010050",
+  "amount": 1920000,
+  "fee": 38800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-04T12:46:41Z"
+ },
+ {
+  "reference": "PSP-47850261",
+  "order_ref": "CHW-010049",
+  "amount": 2355000,
+  "fee": 45325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T12:50:34Z"
+ },
+ {
+  "reference": "PSP-71951443",
+  "order_ref": "CHW-010053",
+  "amount": 60000,
+  "fee": 900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T15:35:49Z"
+ },
+ {
+  "reference": "PSP-38396261",
+  "order_ref": "CHW-010055",
+  "amount": 643500,
+  "fee": 19652,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-04T17:07:12Z"
+ },
+ {
+  "reference": "PSP-21645819",
+  "order_ref": "CHW-010056",
+  "amount": 46750,
+  "fee": 701,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T17:24:00Z"
+ },
+ {
+  "reference": "PSP-40485589",
+  "order_ref": "CHW-010057",
+  "amount": 1152000,
+  "fee": 27280,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T18:33:07Z"
+ },
+ {
+  "reference": "PSP-20784770",
+  "order_ref": "CHW-010058",
+  "amount": 612000,
+  "fee": 19180,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T19:00:36Z"
+ },
+ {
+  "reference": "PSP-27683947",
+  "order_ref": "CHW-010059",
+  "amount": 1025000,
+  "fee": 25375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T19:28:33Z"
+ },
+ {
+  "reference": "PSP-58276475",
+  "order_ref": "CHW-010060",
+  "amount": 54000,
+  "fee": 810,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T19:40:47Z"
+ },
+ {
+  "reference": "PSP-13021239",
+  "order_ref": "CHW-010061",
+  "amount": 630000,
+  "fee": 19450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T20:19:00Z"
+ },
+ {
+  "reference": "PSP-71011655",
+  "order_ref": "CHW-010062",
+  "amount": 1435000,
+  "fee": 31525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T20:29:48Z"
+ },
+ {
+  "reference": "PSP-87756822",
+  "order_ref": "CHW-010063",
+  "amount": 319500,
+  "fee": 14793,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-04T20:50:05Z"
+ },
+ {
+  "reference": "PSP-33352999",
+  "order_ref": "CHW-010064",
+  "amount": 80000,
+  "fee": 1200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-04T21:25:34Z"
+ },
+ {
+  "reference": "PSP-43216013",
+  "order_ref": "CHW-010066",
+  "amount": 355000,
+  "fee": 15325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-04T22:21:20Z"
+ },
+ {
+  "reference": "PSP-80469154",
+  "order_ref": "CHW-010068",
+  "amount": 1550000,
+  "fee": 33250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T11:49:43Z"
+ },
+ {
+  "reference": "PSP-53115879",
+  "order_ref": "CHW-010067",
+  "amount": 340000,
+  "fee": 15100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T11:53:08Z"
+ },
+ {
+  "reference": "PSP-81810911",
+  "order_ref": "CHW-010069",
+  "amount": 560000,
+  "fee": 18400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T11:54:57Z"
+ },
+ {
+  "reference": "PSP-99202248",
+  "order_ref": "CHW-010070",
+  "amount": 671500,
+  "fee": 20072,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-05T12:39:28Z"
+ },
+ {
+  "reference": "PSP-55463104",
+  "order_ref": "CHW-010072",
+  "amount": 915000,
+  "fee": 23725,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T13:21:36Z"
+ },
+ {
+  "reference": "PSP-36170464",
+  "order_ref": "CHW-010074",
+  "amount": 75000,
+  "fee": 1125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T14:52:57Z"
+ },
+ {
+  "reference": "PSP-40494823",
+  "order_ref": "CHW-010075",
+  "amount": 1080000,
+  "fee": 26200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-05T15:42:57Z"
+ },
+ {
+  "reference": "PSP-68521158",
+  "order_ref": "CHW-010076",
+  "amount": 165000,
+  "fee": 2475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T16:36:58Z"
+ },
+ {
+  "reference": "PSP-39725995",
+  "order_ref": "CHW-010077",
+  "amount": 1470500,
+  "fee": 32057,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T16:55:51Z"
+ },
+ {
+  "reference": "PSP-18211189",
+  "order_ref": "CHW-010080",
+  "amount": 782000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-05T17:20:26Z"
+ },
+ {
+  "reference": "PSP-99645426",
+  "order_ref": "CHW-010080",
+  "amount": 782000,
+  "fee": 21730,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T17:37:43Z"
+ },
+ {
+  "reference": "PSP-67563855",
+  "order_ref": "CHW-010079",
+  "amount": 3190000,
+  "fee": 57850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-05T17:55:32Z"
+ },
+ {
+  "reference": "PSP-81072474",
+  "order_ref": "CHW-010081",
+  "amount": 880000,
+  "fee": 23200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T18:14:15Z"
+ },
+ {
+  "reference": "PSP-62464305",
+  "order_ref": "CHW-010083",
+  "amount": 955000,
+  "fee": 24325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T18:42:14Z"
+ },
+ {
+  "reference": "PSP-72368894",
+  "order_ref": "CHW-010085",
+  "amount": 85000,
+  "fee": 1275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-05T19:02:56Z"
+ },
+ {
+  "reference": "PSP-81636129",
+  "order_ref": "CHW-010086",
+  "amount": 1490000,
+  "fee": 32350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T19:11:55Z"
+ },
+ {
+  "reference": "PSP-31368956",
+  "order_ref": "CHW-010084",
+  "amount": 455000,
+  "fee": 16825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T19:17:34Z"
+ },
+ {
+  "reference": "PSP-58741036",
+  "order_ref": "CHW-010087",
+  "amount": 1120000,
+  "fee": 26800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-05T20:01:58Z"
+ },
+ {
+  "reference": "PSP-64749396",
+  "order_ref": "CHW-010088",
+  "amount": 60000,
+  "fee": 900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T20:09:26Z"
+ },
+ {
+  "reference": "PSP-91575521",
+  "order_ref": "CHW-010090",
+  "amount": 620000,
+  "fee": 19300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T20:21:39Z"
+ },
+ {
+  "reference": "PSP-98217054",
+  "order_ref": "CHW-010089",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T20:23:39Z"
+ },
+ {
+  "reference": "PSP-33372589",
+  "order_ref": "CHW-010091",
+  "amount": 505000,
+  "fee": 17575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-05T20:33:17Z"
+ },
+ {
+  "reference": "PSP-41290044",
+  "order_ref": "CHW-010092",
+  "amount": 45000,
+  "fee": 675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T11:05:54Z"
+ },
+ {
+  "reference": "PSP-75678711",
+  "order_ref": "CHW-010093",
+  "amount": 522750,
+  "fee": 17841,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-06T11:14:40Z"
+ },
+ {
+  "reference": "PSP-30309988",
+  "order_ref": "CHW-010097",
+  "amount": 238000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-06T12:07:56Z"
+ },
+ {
+  "reference": "PSP-18561208",
+  "order_ref": "CHW-010094",
+  "amount": 2645000,
+  "fee": 49675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T12:18:30Z"
+ },
+ {
+  "reference": "PSP-54790413",
+  "order_ref": "CHW-010095",
+  "amount": 960000,
+  "fee": 24400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T12:39:35Z"
+ },
+ {
+  "reference": "PSP-36914136",
+  "order_ref": "CHW-010096",
+  "amount": 1150000,
+  "fee": 27250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-06T12:39:41Z"
+ },
+ {
+  "reference": "PSP-10926894",
+  "order_ref": "CHW-010097",
+  "amount": 238000,
+  "fee": 3570,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T12:53:56Z"
+ },
+ {
+  "reference": "PSP-24434289",
+  "order_ref": "CHW-010099",
+  "amount": 1505000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-06T13:26:38Z"
+ },
+ {
+  "reference": "PSP-49897870",
+  "order_ref": "CHW-010099",
+  "amount": 1505100,
+  "fee": 32576,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T13:52:14Z"
+ },
+ {
+  "reference": "PSP-48673469",
+  "order_ref": "CHW-010100",
+  "amount": 1150000,
+  "fee": 27250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T16:33:56Z"
+ },
+ {
+  "reference": "PSP-97892197",
+  "order_ref": "CHW-010101",
+  "amount": 775000,
+  "fee": 21625,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T17:17:05Z"
+ },
+ {
+  "reference": "PSP-23379348",
+  "order_ref": "CHW-010102",
+  "amount": 450000,
+  "fee": 16750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T17:43:35Z"
+ },
+ {
+  "reference": "PSP-59948125",
+  "order_ref": "CHW-010103",
+  "amount": 685000,
+  "fee": 20275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-06T18:01:58Z"
+ },
+ {
+  "reference": "PSP-31081721",
+  "order_ref": "CHW-010104",
+  "amount": 1740000,
+  "fee": 36100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T18:44:03Z"
+ },
+ {
+  "reference": "PSP-21404447",
+  "order_ref": "CHW-010105",
+  "amount": 157250,
+  "fee": 2359,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T19:05:56Z"
+ },
+ {
+  "reference": "PSP-85196950",
+  "order_ref": "CHW-010106",
+  "amount": 590000,
+  "fee": 18850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T19:10:18Z"
+ },
+ {
+  "reference": "PSP-53896078",
+  "order_ref": "CHW-010107",
+  "amount": 331500,
+  "fee": 14972,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T19:26:13Z"
+ },
+ {
+  "reference": "PSP-68336106",
+  "order_ref": "CHW-010108",
+  "amount": 1058250,
+  "fee": 25874,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-06T21:58:40Z"
+ },
+ {
+  "reference": "PSP-71914090",
+  "order_ref": "CHW-010109",
+  "amount": 1305000,
+  "fee": 29575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-06T22:51:12Z"
+ },
+ {
+  "reference": "PSP-38386128",
+  "order_ref": "CHW-010110",
+  "amount": 170000,
+  "fee": 2550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T10:56:08Z"
+ },
+ {
+  "reference": "PSP-31742271",
+  "order_ref": "CHW-010111",
+  "amount": 395000,
+  "fee": 15925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-07T11:16:54Z"
+ },
+ {
+  "reference": "PSP-58439484",
+  "order_ref": "CHW-010112",
+  "amount": 544000,
+  "fee": 18160,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-07T12:27:30Z"
+ },
+ {
+  "reference": "PSP-67521793",
+  "order_ref": "CHW-010113",
+  "amount": 980000,
+  "fee": 24700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T12:59:15Z"
+ },
+ {
+  "reference": "PSP-15957232",
+  "order_ref": "CHW-010114",
+  "amount": 1890000,
+  "fee": 38350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-07T13:03:46Z"
+ },
+ {
+  "reference": "PSP-79685610",
+  "order_ref": "CHW-010115",
+  "amount": 345000,
+  "fee": 15175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-07T13:35:41Z"
+ },
+ {
+  "reference": "PSP-81564869",
+  "order_ref": "CHW-010116",
+  "amount": 715000,
+  "fee": 20725,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-07T14:58:34Z"
+ },
+ {
+  "reference": "PSP-61864364",
+  "order_ref": "CHW-010117",
+  "amount": 365000,
+  "fee": 15475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T17:25:33Z"
+ },
+ {
+  "reference": "PSP-52417515",
+  "order_ref": "CHW-010118",
+  "amount": 85000,
+  "fee": 1275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-07T18:01:02Z"
+ },
+ {
+  "reference": "PSP-17698986",
+  "order_ref": "CHW-010119",
+  "amount": 952000,
+  "fee": 24280,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T18:28:02Z"
+ },
+ {
+  "reference": "PSP-81289464",
+  "order_ref": "CHW-010120",
+  "amount": 425000,
+  "fee": 16375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T18:36:08Z"
+ },
+ {
+  "reference": "PSP-54476595",
+  "order_ref": "CHW-010121",
+  "amount": 735000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-07T18:39:59Z"
+ },
+ {
+  "reference": "PSP-84410072",
+  "order_ref": "CHW-010121",
+  "amount": 735000,
+  "fee": 21025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-07T19:28:23Z"
+ },
+ {
+  "reference": "PSP-50780544",
+  "order_ref": "CHW-010123",
+  "amount": 555000,
+  "fee": 18325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-08T11:30:06Z"
+ },
+ {
+  "reference": "PSP-76665509",
+  "order_ref": "CHW-010124",
+  "amount": 1249500,
+  "fee": 28742,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-08T12:40:27Z"
+ },
+ {
+  "reference": "PSP-52745588",
+  "order_ref": "CHW-010125",
+  "amount": 180000,
+  "fee": 2700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-08T14:36:45Z"
+ },
+ {
+  "reference": "PSP-22123740",
+  "order_ref": "CHW-010126",
+  "amount": 1860000,
+  "fee": 37900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-08T15:53:55Z"
+ },
+ {
+  "reference": "PSP-32762799",
+  "order_ref": "CHW-010127",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-08T16:41:33Z"
+ },
+ {
+  "reference": "PSP-36157172",
+  "order_ref": "CHW-010128",
+  "amount": 780000,
+  "fee": 21700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-08T17:17:15Z"
+ },
+ {
+  "reference": "PSP-92778994",
+  "order_ref": "CHW-010131",
+  "amount": 385000,
+  "fee": 15775,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-08T20:05:13Z"
+ },
+ {
+  "reference": "PSP-10310523",
+  "order_ref": "CHW-010129",
+  "amount": 980000,
+  "fee": 24700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-08T20:06:00Z"
+ },
+ {
+  "reference": "PSP-12230391",
+  "order_ref": "CHW-010130",
+  "amount": 210000,
+  "fee": 3150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-08T20:11:38Z"
+ },
+ {
+  "reference": "PSP-61128472",
+  "order_ref": "CHW-010132",
+  "amount": 1705000,
+  "fee": 35575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-08T20:43:39Z"
+ },
+ {
+  "reference": "PSP-52549256",
+  "order_ref": "CHW-010133",
+  "amount": 947750,
+  "fee": 24216,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-08T21:43:45Z"
+ },
+ {
+  "reference": "PSP-82187193",
+  "order_ref": "CHW-010135",
+  "amount": 980000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-09T11:15:14Z"
+ },
+ {
+  "reference": "PSP-97972478",
+  "order_ref": "CHW-010134",
+  "amount": 1390000,
+  "fee": 30850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T11:34:06Z"
+ },
+ {
+  "reference": "PSP-10838220",
+  "order_ref": "CHW-010135",
+  "amount": 980000,
+  "fee": 24700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T11:53:44Z"
+ },
+ {
+  "reference": "PSP-21718884",
+  "order_ref": "CHW-010136",
+  "amount": 475000,
+  "fee": 17125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-09T11:57:32Z"
+ },
+ {
+  "reference": "PSP-11837337",
+  "order_ref": "CHW-010137",
+  "amount": 684250,
+  "fee": 20264,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-09T13:03:18Z"
+ },
+ {
+  "reference": "PSP-78416877",
+  "order_ref": "CHW-010139",
+  "amount": 1180000,
+  "fee": 27700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T13:40:17Z"
+ },
+ {
+  "reference": "PSP-49216950",
+  "order_ref": "CHW-010140",
+  "amount": 795000,
+  "fee": 21925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-09T14:34:11Z"
+ },
+ {
+  "reference": "PSP-33770473",
+  "order_ref": "CHW-010141",
+  "amount": 970000,
+  "fee": 24550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T16:56:26Z"
+ },
+ {
+  "reference": "PSP-74035352",
+  "order_ref": "CHW-010143",
+  "amount": 425000,
+  "fee": 16375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T17:54:34Z"
+ },
+ {
+  "reference": "PSP-86592185",
+  "order_ref": "CHW-010145",
+  "amount": 1485000,
+  "fee": 32275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-09T19:12:19Z"
+ },
+ {
+  "reference": "PSP-54031844",
+  "order_ref": "CHW-010144",
+  "amount": 1228250,
+  "fee": 28424,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T19:14:45Z"
+ },
+ {
+  "reference": "PSP-92636965",
+  "order_ref": "CHW-010146",
+  "amount": 1555000,
+  "fee": 33325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-09T19:56:52Z"
+ },
+ {
+  "reference": "PSP-73015073",
+  "order_ref": "CHW-010148",
+  "amount": 410000,
+  "fee": 16150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T10:46:46Z"
+ },
+ {
+  "reference": "PSP-82685908",
+  "order_ref": "CHW-010147",
+  "amount": 535500,
+  "fee": 18032,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-10T10:59:38Z"
+ },
+ {
+  "reference": "PSP-21567808",
+  "order_ref": "CHW-010149",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T11:01:38Z"
+ },
+ {
+  "reference": "PSP-41907316",
+  "order_ref": "CHW-010153",
+  "amount": 960000,
+  "fee": 24400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T11:49:01Z"
+ },
+ {
+  "reference": "PSP-54289913",
+  "order_ref": "CHW-010152",
+  "amount": 114750,
+  "fee": 1721,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T12:04:04Z"
+ },
+ {
+  "reference": "PSP-79916274",
+  "order_ref": "CHW-010154",
+  "amount": 450000,
+  "fee": 16750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T12:17:48Z"
+ },
+ {
+  "reference": "PSP-43577965",
+  "order_ref": "CHW-010155",
+  "amount": 2795000,
+  "fee": 51925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T12:37:30Z"
+ },
+ {
+  "reference": "PSP-84086449",
+  "order_ref": "CHW-010156",
+  "amount": 1480000,
+  "fee": 32200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T13:13:46Z"
+ },
+ {
+  "reference": "PSP-62601765",
+  "order_ref": "CHW-010157",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-10T14:24:28Z"
+ },
+ {
+  "reference": "PSP-33936043",
+  "order_ref": "CHW-010158",
+  "amount": 30000,
+  "fee": 450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T14:57:49Z"
+ },
+ {
+  "reference": "PSP-27480373",
+  "order_ref": "CHW-010159",
+  "amount": 695000,
+  "fee": 20425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-10T16:35:07Z"
+ },
+ {
+  "reference": "PSP-75940653",
+  "order_ref": "CHW-009991",
+  "amount": 720000,
+  "fee": 20800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-10T18:37:00Z"
+ },
+ {
+  "reference": "PSP-72461878",
+  "order_ref": "CHW-010161",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-10T18:40:57Z"
+ },
+ {
+  "reference": "PSP-42488501",
+  "order_ref": "CHW-010163",
+  "amount": 505000,
+  "fee": 17575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-10T19:03:50Z"
+ },
+ {
+  "reference": "PSP-67776412",
+  "order_ref": "CHW-010166",
+  "amount": 135000,
+  "fee": 2025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T11:17:13Z"
+ },
+ {
+  "reference": "PSP-71158472",
+  "order_ref": "CHW-010168",
+  "amount": 1420000,
+  "fee": 31300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T11:55:47Z"
+ },
+ {
+  "reference": "PSP-15752481",
+  "order_ref": "CHW-010169",
+  "amount": 263500,
+  "fee": 13953,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T12:18:07Z"
+ },
+ {
+  "reference": "PSP-91955055",
+  "order_ref": "CHW-010171",
+  "amount": 1500000,
+  "fee": 32500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T12:19:11Z"
+ },
+ {
+  "reference": "PSP-77090935",
+  "order_ref": "CHW-010170",
+  "amount": 560000,
+  "fee": 18400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T12:34:33Z"
+ },
+ {
+  "reference": "PSP-18644208",
+  "order_ref": "CHW-010172",
+  "amount": 184500,
+  "fee": 2768,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T13:12:35Z"
+ },
+ {
+  "reference": "PSP-92243753",
+  "order_ref": "CHW-010173",
+  "amount": 840000,
+  "fee": 22600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T13:50:06Z"
+ },
+ {
+  "reference": "PSP-86671205",
+  "order_ref": "CHW-010174",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T14:18:53Z"
+ },
+ {
+  "reference": "PSP-11384995",
+  "order_ref": "CHW-010175",
+  "amount": 1062500,
+  "fee": 25938,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T16:37:26Z"
+ },
+ {
+  "reference": "PSP-73583014",
+  "order_ref": "CHW-010177",
+  "amount": 1120000,
+  "fee": 26800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T16:47:14Z"
+ },
+ {
+  "reference": "PSP-78065130",
+  "order_ref": "CHW-010178",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T17:20:02Z"
+ },
+ {
+  "reference": "PSP-57200603",
+  "order_ref": "CHW-010179",
+  "amount": 1687250,
+  "fee": 35309,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T17:58:27Z"
+ },
+ {
+  "reference": "PSP-79362913",
+  "order_ref": "CHW-010180",
+  "amount": 2350000,
+  "fee": 45250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T18:15:15Z"
+ },
+ {
+  "reference": "PSP-11997428",
+  "order_ref": "CHW-010181",
+  "amount": 1102500,
+  "fee": 26538,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-11T19:04:53Z"
+ },
+ {
+  "reference": "PSP-98298676",
+  "order_ref": "CHW-010182",
+  "amount": 585000,
+  "fee": 18775,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T19:15:03Z"
+ },
+ {
+  "reference": "PSP-45759728",
+  "order_ref": "CHW-010183",
+  "amount": 267750,
+  "fee": 14016,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T19:46:31Z"
+ },
+ {
+  "reference": "PSP-52710716",
+  "order_ref": "CHW-010186",
+  "amount": 177500,
+  "fee": 2662,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T19:47:00Z"
+ },
+ {
+  "reference": "PSP-10443122",
+  "order_ref": "CHW-010184",
+  "amount": 1125000,
+  "fee": 26875,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T19:50:03Z"
+ },
+ {
+  "reference": "PSP-54872306",
+  "order_ref": "CHW-010187",
+  "amount": 246500,
+  "fee": 3698,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T20:11:56Z"
+ },
+ {
+  "reference": "PSP-55463985",
+  "order_ref": "CHW-010188",
+  "amount": 238000,
+  "fee": 3570,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-11T20:35:32Z"
+ },
+ {
+  "reference": "PSP-90575760",
+  "order_ref": "CHW-010189",
+  "amount": 409500,
+  "fee": 16143,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-11T22:11:48Z"
+ },
+ {
+  "reference": "PSP-72560453",
+  "order_ref": "CHW-010190",
+  "amount": 1000000,
+  "fee": 25000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T10:30:12Z"
+ },
+ {
+  "reference": "PSP-19791479",
+  "order_ref": "CHW-010191",
+  "amount": 1155000,
+  "fee": 27325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T11:49:41Z"
+ },
+ {
+  "reference": "PSP-36349640",
+  "order_ref": "CHW-010194",
+  "amount": 280000,
+  "fee": 14200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T12:31:19Z"
+ },
+ {
+  "reference": "PSP-68052461",
+  "order_ref": "CHW-010192",
+  "amount": 595000,
+  "fee": 18925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T12:34:13Z"
+ },
+ {
+  "reference": "PSP-91402433",
+  "order_ref": "CHW-010195",
+  "amount": 435000,
+  "fee": 16525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T12:39:23Z"
+ },
+ {
+  "reference": "PSP-16139690",
+  "order_ref": "CHW-010196",
+  "amount": 455000,
+  "fee": 16825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-12T13:24:30Z"
+ },
+ {
+  "reference": "PSP-79631796",
+  "order_ref": "CHW-010197",
+  "amount": 855000,
+  "fee": 22825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T13:32:21Z"
+ },
+ {
+  "reference": "PSP-71485842",
+  "order_ref": "CHW-010198",
+  "amount": 769250,
+  "fee": 21539,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-12T13:55:11Z"
+ },
+ {
+  "reference": "PSP-83098395",
+  "order_ref": "CHW-010199",
+  "amount": 100000,
+  "fee": 1500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T14:15:20Z"
+ },
+ {
+  "reference": "PSP-24272350",
+  "order_ref": "CHW-010203",
+  "amount": 700000,
+  "fee": 20500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T17:44:29Z"
+ },
+ {
+  "reference": "PSP-79008965",
+  "order_ref": "CHW-010202",
+  "amount": 1460000,
+  "fee": 31900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T17:59:00Z"
+ },
+ {
+  "reference": "PSP-29211527",
+  "order_ref": "CHW-010204",
+  "amount": 395250,
+  "fee": 15929,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T18:47:40Z"
+ },
+ {
+  "reference": "PSP-93805825",
+  "order_ref": "CHW-010205",
+  "amount": 1085000,
+  "fee": 26275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T19:18:44Z"
+ },
+ {
+  "reference": "PSP-17423621",
+  "order_ref": "CHW-010206",
+  "amount": 1300000,
+  "fee": 29500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T19:28:13Z"
+ },
+ {
+  "reference": "PSP-94773321",
+  "order_ref": "CHW-010207",
+  "amount": 493000,
+  "fee": 17395,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T19:46:30Z"
+ },
+ {
+  "reference": "PSP-95936785",
+  "order_ref": "CHW-010208",
+  "amount": 810000,
+  "fee": 22150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T19:58:42Z"
+ },
+ {
+  "reference": "PSP-21799240",
+  "order_ref": "CHW-010209",
+  "amount": 255000,
+  "fee": 13825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T20:12:25Z"
+ },
+ {
+  "reference": "PSP-69072341",
+  "order_ref": "CHW-010211",
+  "amount": 1170000,
+  "fee": 27550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-12T21:29:44Z"
+ },
+ {
+  "reference": "PSP-59023471",
+  "order_ref": "CHW-010214",
+  "amount": 495000,
+  "fee": 17425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T21:36:54Z"
+ },
+ {
+  "reference": "PSP-13545846",
+  "order_ref": "CHW-010216",
+  "amount": 995000,
+  "fee": 24925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-12T22:13:56Z"
+ },
+ {
+  "reference": "PSP-93531620",
+  "order_ref": "CHW-010215",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-12T22:30:44Z"
+ },
+ {
+  "reference": "PSP-18156360",
+  "order_ref": "CHW-010217",
+  "amount": 620000,
+  "fee": 19300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T11:56:45Z"
+ },
+ {
+  "reference": "PSP-26781092",
+  "order_ref": "CHW-010218",
+  "amount": 280000,
+  "fee": 14200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-13T13:14:36Z"
+ },
+ {
+  "reference": "PSP-17332486",
+  "order_ref": "CHW-010221",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T13:21:36Z"
+ },
+ {
+  "reference": "PSP-60228997",
+  "order_ref": "CHW-010220",
+  "amount": 1240000,
+  "fee": 28600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-13T13:32:47Z"
+ },
+ {
+  "reference": "PSP-78704294",
+  "order_ref": "CHW-010219",
+  "amount": 75000,
+  "fee": 1125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T13:33:41Z"
+ },
+ {
+  "reference": "PSP-74082070",
+  "order_ref": "CHW-010222",
+  "amount": 190000,
+  "fee": 2850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-13T13:40:03Z"
+ },
+ {
+  "reference": "PSP-78735046",
+  "order_ref": "CHW-010223",
+  "amount": 1240000,
+  "fee": 28600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T14:09:41Z"
+ },
+ {
+  "reference": "PSP-26941500",
+  "order_ref": "CHW-010224",
+  "amount": 295000,
+  "fee": 14425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T14:22:46Z"
+ },
+ {
+  "reference": "PSP-41077648",
+  "order_ref": "CHW-010225",
+  "amount": 2070000,
+  "fee": 41050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T15:07:50Z"
+ },
+ {
+  "reference": "PSP-61678337",
+  "order_ref": "CHW-010226",
+  "amount": 2300000,
+  "fee": 44500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T16:09:06Z"
+ },
+ {
+  "reference": "PSP-91237525",
+  "order_ref": "CHW-010227",
+  "amount": 293250,
+  "fee": 14399,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-13T17:35:38Z"
+ },
+ {
+  "reference": "PSP-98669117",
+  "order_ref": "CHW-010228",
+  "amount": 620000,
+  "fee": 19300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T18:16:48Z"
+ },
+ {
+  "reference": "PSP-44334040",
+  "order_ref": "CHW-010229",
+  "amount": 1205000,
+  "fee": 28075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T18:27:28Z"
+ },
+ {
+  "reference": "PSP-47405866",
+  "order_ref": "CHW-010230",
+  "amount": 660000,
+  "fee": 19900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T18:30:31Z"
+ },
+ {
+  "reference": "PSP-87457184",
+  "order_ref": "CHW-010231",
+  "amount": 913750,
+  "fee": 23706,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T18:52:49Z"
+ },
+ {
+  "reference": "PSP-38840224",
+  "order_ref": "CHW-010233",
+  "amount": 1280000,
+  "fee": 29200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-13T20:15:50Z"
+ },
+ {
+  "reference": "PSP-67563618",
+  "order_ref": "CHW-010234",
+  "amount": 527000,
+  "fee": 17905,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-13T20:43:19Z"
+ },
+ {
+  "reference": "PSP-29771703",
+  "order_ref": "CHW-010235",
+  "amount": 1010000,
+  "fee": 25150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-13T22:34:26Z"
+ },
+ {
+  "reference": "PSP-69290894",
+  "order_ref": "CHW-010237",
+  "amount": 290000,
+  "fee": 14350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T10:17:47Z"
+ },
+ {
+  "reference": "PSP-94427714",
+  "order_ref": "CHW-010238",
+  "amount": 2270000,
+  "fee": 44050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T10:25:32Z"
+ },
+ {
+  "reference": "PSP-72687887",
+  "order_ref": "CHW-010239",
+  "amount": 650500,
+  "fee": 19757,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T11:08:34Z"
+ },
+ {
+  "reference": "PSP-44075731",
+  "order_ref": "CHW-010240",
+  "amount": 730000,
+  "fee": 20950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T11:40:50Z"
+ },
+ {
+  "reference": "PSP-76665854",
+  "order_ref": "CHW-010241",
+  "amount": 1002250,
+  "fee": 25034,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T12:41:44Z"
+ },
+ {
+  "reference": "PSP-28024843",
+  "order_ref": "CHW-010242",
+  "amount": 930000,
+  "fee": 23950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-14T12:43:03Z"
+ },
+ {
+  "reference": "PSP-16067565",
+  "order_ref": "CHW-010243",
+  "amount": 1041250,
+  "fee": 25619,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T12:45:11Z"
+ },
+ {
+  "reference": "PSP-26034196",
+  "order_ref": "CHW-010244",
+  "amount": 335750,
+  "fee": 15036,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T13:14:38Z"
+ },
+ {
+  "reference": "PSP-67690701",
+  "order_ref": "CHW-010245",
+  "amount": 710000,
+  "fee": 20650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T14:38:49Z"
+ },
+ {
+  "reference": "PSP-53321087",
+  "order_ref": "CHW-010246",
+  "amount": 830000,
+  "fee": 22450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-14T15:39:17Z"
+ },
+ {
+  "reference": "PSP-51814024",
+  "order_ref": "CHW-010247",
+  "amount": 110000,
+  "fee": 1650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T16:35:57Z"
+ },
+ {
+  "reference": "PSP-29933501",
+  "order_ref": "CHW-010248",
+  "amount": 500000,
+  "fee": 17500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T18:28:00Z"
+ },
+ {
+  "reference": "PSP-93971675",
+  "order_ref": "CHW-010249",
+  "amount": 902500,
+  "fee": 23538,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-14T18:34:51Z"
+ },
+ {
+  "reference": "PSP-60492106",
+  "order_ref": "CHW-010250",
+  "amount": 550000,
+  "fee": 18250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-14T19:25:20Z"
+ },
+ {
+  "reference": "PSP-13081240",
+  "order_ref": "CHW-010251",
+  "amount": 460000,
+  "fee": 16900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-15T10:42:31Z"
+ },
+ {
+  "reference": "PSP-61819113",
+  "order_ref": "CHW-010253",
+  "amount": 1875000,
+  "fee": 38125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-15T11:45:38Z"
+ },
+ {
+  "reference": "PSP-84596322",
+  "order_ref": "CHW-010254",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-15T11:55:55Z"
+ },
+ {
+  "reference": "PSP-81188566",
+  "order_ref": "CHW-010252",
+  "amount": 607750,
+  "fee": 19116,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-15T12:01:54Z"
+ },
+ {
+  "reference": "PSP-25262060",
+  "order_ref": "CHW-010256",
+  "amount": 730000,
+  "fee": 20950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-15T12:37:08Z"
+ },
+ {
+  "reference": "PSP-44055357",
+  "order_ref": "CHW-010258",
+  "amount": 90000,
+  "fee": 1350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-15T12:53:54Z"
+ },
+ {
+  "reference": "PSP-99273248",
+  "order_ref": "CHW-010259",
+  "amount": 535000,
+  "fee": 18025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-15T13:30:36Z"
+ },
+ {
+  "reference": "PSP-35829697",
+  "order_ref": "CHW-010260",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-15T14:50:14Z"
+ },
+ {
+  "reference": "PSP-35703683",
+  "order_ref": "CHW-010261",
+  "amount": 1505000,
+  "fee": 32575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-15T18:05:46Z"
+ },
+ {
+  "reference": "PSP-35941976",
+  "order_ref": "CHW-010262",
+  "amount": 1515000,
+  "fee": 32725,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-15T18:28:36Z"
+ },
+ {
+  "reference": "PSP-72311092",
+  "order_ref": "CHW-010263",
+  "amount": 1740000,
+  "fee": 36100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-15T19:15:44Z"
+ },
+ {
+  "reference": "PSP-42327590",
+  "order_ref": "CHW-010264",
+  "amount": 440000,
+  "fee": 16600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-15T19:58:07Z"
+ },
+ {
+  "reference": "PSP-84783570",
+  "order_ref": "CHW-010265",
+  "amount": 35000,
+  "fee": 525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-15T20:27:09Z"
+ },
+ {
+  "reference": "PSP-99629689",
+  "order_ref": "CHW-010266",
+  "amount": 76500,
+  "fee": 1147,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T11:53:02Z"
+ },
+ {
+  "reference": "PSP-57577876",
+  "order_ref": "CHW-010267",
+  "amount": 900000,
+  "fee": 23500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T12:59:27Z"
+ },
+ {
+  "reference": "PSP-86163287",
+  "order_ref": "CHW-010268",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T13:28:30Z"
+ },
+ {
+  "reference": "PSP-22802872",
+  "order_ref": "CHW-010269",
+  "amount": 2785000,
+  "fee": 51775,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T14:38:57Z"
+ },
+ {
+  "reference": "PSP-45524140",
+  "order_ref": "CHW-010270",
+  "amount": 455000,
+  "fee": 16825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-16T15:49:06Z"
+ },
+ {
+  "reference": "PSP-27946546",
+  "order_ref": "CHW-010271",
+  "amount": 200000,
+  "fee": 3000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-16T17:06:58Z"
+ },
+ {
+  "reference": "PSP-16175127",
+  "order_ref": "CHW-010272",
+  "amount": 1025000,
+  "fee": 25375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-16T17:15:15Z"
+ },
+ {
+  "reference": "PSP-96143030",
+  "order_ref": "CHW-010274",
+  "amount": 755000,
+  "fee": 21325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T17:38:08Z"
+ },
+ {
+  "reference": "PSP-32448030",
+  "order_ref": "CHW-010273",
+  "amount": 1315000,
+  "fee": 29725,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T17:58:40Z"
+ },
+ {
+  "reference": "PSP-74140482",
+  "order_ref": "CHW-010275",
+  "amount": 100000,
+  "fee": 1500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T18:11:04Z"
+ },
+ {
+  "reference": "PSP-62817975",
+  "order_ref": "CHW-010276",
+  "amount": 485000,
+  "fee": 17275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T19:23:29Z"
+ },
+ {
+  "reference": "PSP-47938385",
+  "order_ref": "CHW-010279",
+  "amount": 1780000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-16T19:51:28Z"
+ },
+ {
+  "reference": "PSP-69494470",
+  "order_ref": "CHW-010277",
+  "amount": 1640000,
+  "fee": 34600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-16T19:54:50Z"
+ },
+ {
+  "reference": "PSP-59355824",
+  "order_ref": "CHW-010278",
+  "amount": 170000,
+  "fee": 2550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T20:07:10Z"
+ },
+ {
+  "reference": "PSP-70092759",
+  "order_ref": "CHW-010279",
+  "amount": 1780000,
+  "fee": 36700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-16T20:21:27Z"
+ },
+ {
+  "reference": "PSP-10132388",
+  "order_ref": "CHW-010280",
+  "amount": 565250,
+  "fee": 18479,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-16T21:16:37Z"
+ },
+ {
+  "reference": "PSP-17313041",
+  "order_ref": "CHW-010281",
+  "amount": 205000,
+  "fee": 3075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-16T22:13:30Z"
+ },
+ {
+  "reference": "PSP-36986492",
+  "order_ref": "CHW-010282",
+  "amount": 579500,
+  "fee": 18693,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T11:40:31Z"
+ },
+ {
+  "reference": "PSP-33761550",
+  "order_ref": "CHW-010283",
+  "amount": 710000,
+  "fee": 20650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T11:41:52Z"
+ },
+ {
+  "reference": "PSP-77847093",
+  "order_ref": "CHW-010284",
+  "amount": 1510000,
+  "fee": 32650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T12:06:18Z"
+ },
+ {
+  "reference": "PSP-81615643",
+  "order_ref": "CHW-010285",
+  "amount": 880000,
+  "fee": 23200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T12:35:16Z"
+ },
+ {
+  "reference": "PSP-67933606",
+  "order_ref": "CHW-010286",
+  "amount": 153000,
+  "fee": 2295,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-17T12:53:42Z"
+ },
+ {
+  "reference": "PSP-62686692",
+  "order_ref": "CHW-010287",
+  "amount": 1340000,
+  "fee": 30100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T13:15:21Z"
+ },
+ {
+  "reference": "PSP-74840456",
+  "order_ref": "CHW-010288",
+  "amount": 1060000,
+  "fee": 25900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T13:19:06Z"
+ },
+ {
+  "reference": "PSP-12880489",
+  "order_ref": "CHW-010289",
+  "amount": 540000,
+  "fee": 18100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T13:27:51Z"
+ },
+ {
+  "reference": "PSP-29344589",
+  "order_ref": "CHW-010291",
+  "amount": 50000,
+  "fee": 750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T13:52:29Z"
+ },
+ {
+  "reference": "PSP-31486929",
+  "order_ref": "CHW-010290",
+  "amount": 380000,
+  "fee": 15700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T13:59:22Z"
+ },
+ {
+  "reference": "PSP-86673704",
+  "order_ref": "CHW-010292",
+  "amount": 135000,
+  "fee": 2025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T14:03:22Z"
+ },
+ {
+  "reference": "PSP-52613855",
+  "order_ref": "CHW-010293",
+  "amount": 1145000,
+  "fee": 27175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T15:27:25Z"
+ },
+ {
+  "reference": "PSP-15497991",
+  "order_ref": "CHW-010294",
+  "amount": 1770000,
+  "fee": 36550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T15:45:41Z"
+ },
+ {
+  "reference": "PSP-29735871",
+  "order_ref": "CHW-010295",
+  "amount": 1100000,
+  "fee": 26500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T18:28:14Z"
+ },
+ {
+  "reference": "PSP-19196724",
+  "order_ref": "CHW-010296",
+  "amount": 935000,
+  "fee": 24025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T18:40:40Z"
+ },
+ {
+  "reference": "PSP-71981538",
+  "order_ref": "CHW-010298",
+  "amount": 1645000,
+  "fee": 34675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T19:27:31Z"
+ },
+ {
+  "reference": "PSP-40406690",
+  "order_ref": "CHW-010297",
+  "amount": 540000,
+  "fee": 18100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T19:38:18Z"
+ },
+ {
+  "reference": "PSP-69979326",
+  "order_ref": "CHW-010299",
+  "amount": 1163750,
+  "fee": 27456,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T19:46:47Z"
+ },
+ {
+  "reference": "PSP-92714779",
+  "order_ref": "CHW-010300",
+  "amount": 440000,
+  "fee": 16600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T20:06:17Z"
+ },
+ {
+  "reference": "PSP-12970554",
+  "order_ref": "CHW-010301",
+  "amount": 306000,
+  "fee": 14590,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-17T21:06:16Z"
+ },
+ {
+  "reference": "PSP-50281634",
+  "order_ref": "CHW-010302",
+  "amount": 344250,
+  "fee": 15164,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-17T22:11:11Z"
+ },
+ {
+  "reference": "PSP-63206667",
+  "order_ref": "CHW-010306",
+  "amount": 314500,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-18T10:30:50Z"
+ },
+ {
+  "reference": "PSP-97190630",
+  "order_ref": "CHW-010305",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T10:33:38Z"
+ },
+ {
+  "reference": "PSP-65783549",
+  "order_ref": "CHW-010306",
+  "amount": 314500,
+  "fee": 14718,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T11:13:37Z"
+ },
+ {
+  "reference": "PSP-73762669",
+  "order_ref": "CHW-010310",
+  "amount": 760000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-18T11:35:29Z"
+ },
+ {
+  "reference": "PSP-17038746",
+  "order_ref": "CHW-010307",
+  "amount": 320000,
+  "fee": 14800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T11:48:36Z"
+ },
+ {
+  "reference": "PSP-31246784",
+  "order_ref": "CHW-010309",
+  "amount": 1950000,
+  "fee": 39250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T11:54:46Z"
+ },
+ {
+  "reference": "PSP-14193675",
+  "order_ref": "CHW-010310",
+  "amount": 760000,
+  "fee": 21400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T12:06:10Z"
+ },
+ {
+  "reference": "PSP-65806339",
+  "order_ref": "CHW-010311",
+  "amount": 1000000,
+  "fee": 25000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T12:53:32Z"
+ },
+ {
+  "reference": "PSP-49556611",
+  "order_ref": "CHW-010313",
+  "amount": 275000,
+  "fee": 14125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T16:55:04Z"
+ },
+ {
+  "reference": "PSP-11277691",
+  "order_ref": "CHW-010314",
+  "amount": 1110000,
+  "fee": 26650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T17:01:48Z"
+ },
+ {
+  "reference": "PSP-75396131",
+  "order_ref": "CHW-010315",
+  "amount": 1296000,
+  "fee": 29440,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T17:22:11Z"
+ },
+ {
+  "reference": "PSP-96267095",
+  "order_ref": "CHW-010316",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T18:51:17Z"
+ },
+ {
+  "reference": "PSP-43476128",
+  "order_ref": "CHW-010319",
+  "amount": 75000,
+  "fee": 1125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T19:02:55Z"
+ },
+ {
+  "reference": "PSP-56123902",
+  "order_ref": "CHW-010317",
+  "amount": 535000,
+  "fee": 18025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T19:09:19Z"
+ },
+ {
+  "reference": "PSP-97447918",
+  "order_ref": "CHW-010318",
+  "amount": 500000,
+  "fee": 17500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T19:14:33Z"
+ },
+ {
+  "reference": "PSP-68982983",
+  "order_ref": "CHW-010321",
+  "amount": 150000,
+  "fee": 2250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T19:46:25Z"
+ },
+ {
+  "reference": "PSP-55449858",
+  "order_ref": "CHW-010320",
+  "amount": 310250,
+  "fee": 14654,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-18T19:50:21Z"
+ },
+ {
+  "reference": "PSP-72187961",
+  "order_ref": "CHW-010323",
+  "amount": 280000,
+  "fee": 14200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T19:58:39Z"
+ },
+ {
+  "reference": "PSP-14499233",
+  "order_ref": "CHW-010322",
+  "amount": 671500,
+  "fee": 20072,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T20:04:25Z"
+ },
+ {
+  "reference": "PSP-76119979",
+  "order_ref": "CHW-010324",
+  "amount": 1048500,
+  "fee": 25727,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T20:59:57Z"
+ },
+ {
+  "reference": "PSP-71574141",
+  "order_ref": "CHW-010325",
+  "amount": 549000,
+  "fee": 18235,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-18T21:14:25Z"
+ },
+ {
+  "reference": "PSP-95350869",
+  "order_ref": "CHW-010327",
+  "amount": 1210000,
+  "fee": 28150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-18T22:39:00Z"
+ },
+ {
+  "reference": "PSP-25927702",
+  "order_ref": "CHW-010328",
+  "amount": 725000,
+  "fee": 20875,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T12:20:07Z"
+ },
+ {
+  "reference": "PSP-47609452",
+  "order_ref": "CHW-010329",
+  "amount": 918000,
+  "fee": 23770,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T12:34:04Z"
+ },
+ {
+  "reference": "PSP-18724143",
+  "order_ref": "CHW-010330",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T12:37:34Z"
+ },
+ {
+  "reference": "PSP-77203760",
+  "order_ref": "CHW-010332",
+  "amount": 790000,
+  "fee": 21850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T13:05:28Z"
+ },
+ {
+  "reference": "PSP-63916088",
+  "order_ref": "CHW-010334",
+  "amount": 770000,
+  "fee": 21550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T13:23:35Z"
+ },
+ {
+  "reference": "PSP-61735240",
+  "order_ref": "CHW-010335",
+  "amount": 390000,
+  "fee": 15850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-19T14:04:03Z"
+ },
+ {
+  "reference": "PSP-66867791",
+  "order_ref": "CHW-010337",
+  "amount": 1460000,
+  "fee": 31900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T15:23:21Z"
+ },
+ {
+  "reference": "PSP-38243000",
+  "order_ref": "CHW-010338",
+  "amount": 750000,
+  "fee": 21250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-19T16:33:38Z"
+ },
+ {
+  "reference": "PSP-97955140",
+  "order_ref": "CHW-010341",
+  "amount": 446250,
+  "fee": 16694,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T17:21:05Z"
+ },
+ {
+  "reference": "PSP-99023858",
+  "order_ref": "CHW-010340",
+  "amount": 710000,
+  "fee": 20650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T17:29:57Z"
+ },
+ {
+  "reference": "PSP-79202357",
+  "order_ref": "CHW-010342",
+  "amount": 550000,
+  "fee": 18250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T17:43:08Z"
+ },
+ {
+  "reference": "PSP-31547265",
+  "order_ref": "CHW-010348",
+  "amount": 595000,
+  "fee": 18925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T19:37:40Z"
+ },
+ {
+  "reference": "PSP-53765812",
+  "order_ref": "CHW-010345",
+  "amount": 255000,
+  "fee": 13825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T19:42:47Z"
+ },
+ {
+  "reference": "PSP-47800092",
+  "order_ref": "CHW-010346",
+  "amount": 476000,
+  "fee": 17140,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-19T19:46:40Z"
+ },
+ {
+  "reference": "PSP-57887582",
+  "order_ref": "CHW-010347",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-19T19:53:02Z"
+ },
+ {
+  "reference": "PSP-96185033",
+  "order_ref": "CHW-010349",
+  "amount": 750000,
+  "fee": 21250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-19T22:31:36Z"
+ },
+ {
+  "reference": "PSP-76423326",
+  "order_ref": "CHW-010350",
+  "amount": 725000,
+  "fee": 20875,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T11:50:58Z"
+ },
+ {
+  "reference": "PSP-39451249",
+  "order_ref": "CHW-010351",
+  "amount": 2025000,
+  "fee": 40375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-20T12:09:11Z"
+ },
+ {
+  "reference": "PSP-75842887",
+  "order_ref": "CHW-010352",
+  "amount": 2670000,
+  "fee": 50050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-20T12:45:39Z"
+ },
+ {
+  "reference": "PSP-20539966",
+  "order_ref": "CHW-010353",
+  "amount": 1026000,
+  "fee": 25390,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T12:59:43Z"
+ },
+ {
+  "reference": "PSP-97238719",
+  "order_ref": "CHW-010354",
+  "amount": 1450000,
+  "fee": 31750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T13:37:44Z"
+ },
+ {
+  "reference": "PSP-13249954",
+  "order_ref": "CHW-010355",
+  "amount": 805000,
+  "fee": 22075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T14:00:11Z"
+ },
+ {
+  "reference": "PSP-31376534",
+  "order_ref": "CHW-010356",
+  "amount": 783750,
+  "fee": 21756,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-20T14:22:20Z"
+ },
+ {
+  "reference": "PSP-86523492",
+  "order_ref": "CHW-010358",
+  "amount": 810000,
+  "fee": 22150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T17:07:05Z"
+ },
+ {
+  "reference": "PSP-18188942",
+  "order_ref": "CHW-010359",
+  "amount": 1085000,
+  "fee": 26275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-20T17:38:37Z"
+ },
+ {
+  "reference": "PSP-10760583",
+  "order_ref": "CHW-010360",
+  "amount": 544000,
+  "fee": 18160,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-20T17:48:00Z"
+ },
+ {
+  "reference": "PSP-66185695",
+  "order_ref": "CHW-010361",
+  "amount": 692750,
+  "fee": 20391,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-20T18:01:11Z"
+ },
+ {
+  "reference": "PSP-57608696",
+  "order_ref": "CHW-010363",
+  "amount": 360000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-20T19:00:26Z"
+ },
+ {
+  "reference": "PSP-56982762",
+  "order_ref": "CHW-010362",
+  "amount": 780000,
+  "fee": 21700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T19:09:16Z"
+ },
+ {
+  "reference": "PSP-85232555",
+  "order_ref": "CHW-010363",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-20T19:30:46Z"
+ },
+ {
+  "reference": "PSP-39541289",
+  "order_ref": "CHW-010364",
+  "amount": 1320000,
+  "fee": 29800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T19:52:27Z"
+ },
+ {
+  "reference": "PSP-73992299",
+  "order_ref": "CHW-010366",
+  "amount": 355000,
+  "fee": 15325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T20:42:36Z"
+ },
+ {
+  "reference": "PSP-69537306",
+  "order_ref": "CHW-010365",
+  "amount": 1250800,
+  "fee": 28762,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T20:54:57Z"
+ },
+ {
+  "reference": "PSP-64146065",
+  "order_ref": "CHW-010367",
+  "amount": 460000,
+  "fee": 16900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-20T22:24:24Z"
+ },
+ {
+  "reference": "PSP-24355235",
+  "order_ref": "CHW-010369",
+  "amount": 1649000,
+  "fee": 34735,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T12:36:26Z"
+ },
+ {
+  "reference": "PSP-29518810",
+  "order_ref": "CHW-010368",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T12:48:55Z"
+ },
+ {
+  "reference": "PSP-94989133",
+  "order_ref": "CHW-009990",
+  "amount": 480000,
+  "fee": 17200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T13:15:00Z"
+ },
+ {
+  "reference": "PSP-71662174",
+  "order_ref": "CHW-010370",
+  "amount": 365000,
+  "fee": 15475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-21T13:44:58Z"
+ },
+ {
+  "reference": "PSP-24220965",
+  "order_ref": "CHW-010371",
+  "amount": 356250,
+  "fee": 15344,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T14:11:30Z"
+ },
+ {
+  "reference": "PSP-44356265",
+  "order_ref": "CHW-010372",
+  "amount": 650000,
+  "fee": 19750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-21T17:21:05Z"
+ },
+ {
+  "reference": "PSP-19515731",
+  "order_ref": "CHW-010374",
+  "amount": 490000,
+  "fee": 17350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-21T17:54:50Z"
+ },
+ {
+  "reference": "PSP-11420049",
+  "order_ref": "CHW-010376",
+  "amount": 75000,
+  "fee": 1125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T19:25:54Z"
+ },
+ {
+  "reference": "PSP-46810133",
+  "order_ref": "CHW-010378",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-21T19:31:21Z"
+ },
+ {
+  "reference": "PSP-90358896",
+  "order_ref": "CHW-010377",
+  "amount": 1520000,
+  "fee": 32800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T19:43:19Z"
+ },
+ {
+  "reference": "PSP-33632673",
+  "order_ref": "CHW-010379",
+  "amount": 945000,
+  "fee": 24175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-21T19:43:37Z"
+ },
+ {
+  "reference": "PSP-60515415",
+  "order_ref": "CHW-010380",
+  "amount": 365000,
+  "fee": 15475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-21T20:55:54Z"
+ },
+ {
+  "reference": "PSP-44488937",
+  "order_ref": "CHW-010381",
+  "amount": 1000000,
+  "fee": 25000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-22T11:57:06Z"
+ },
+ {
+  "reference": "PSP-58094314",
+  "order_ref": "CHW-010382",
+  "amount": 969250,
+  "fee": 24539,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-22T12:18:10Z"
+ },
+ {
+  "reference": "PSP-29268133",
+  "order_ref": "CHW-010383",
+  "amount": 671500,
+  "fee": 20072,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-22T15:07:05Z"
+ },
+ {
+  "reference": "PSP-51857774",
+  "order_ref": "CHW-010384",
+  "amount": 717250,
+  "fee": 20759,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-22T17:47:43Z"
+ },
+ {
+  "reference": "PSP-51468919",
+  "order_ref": "CHW-010385",
+  "amount": 144500,
+  "fee": 2168,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-22T18:23:33Z"
+ },
+ {
+  "reference": "PSP-43081465",
+  "order_ref": "CHW-010387",
+  "amount": 605000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-22T18:39:38Z"
+ },
+ {
+  "reference": "PSP-53008820",
+  "order_ref": "CHW-010386",
+  "amount": 2600000,
+  "fee": 49000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-22T18:49:38Z"
+ },
+ {
+  "reference": "PSP-26197508",
+  "order_ref": "CHW-010387",
+  "amount": 605000,
+  "fee": 19075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-22T19:06:28Z"
+ },
+ {
+  "reference": "PSP-61495580",
+  "order_ref": "CHW-010388",
+  "amount": 2170000,
+  "fee": 42550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-22T19:25:43Z"
+ },
+ {
+  "reference": "PSP-76889824",
+  "order_ref": "CHW-010389",
+  "amount": 375000,
+  "fee": 15625,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-22T21:36:57Z"
+ },
+ {
+  "reference": "PSP-47129952",
+  "order_ref": "CHW-010390",
+  "amount": 1815000,
+  "fee": 37225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-23T12:00:09Z"
+ },
+ {
+  "reference": "PSP-35237533",
+  "order_ref": "CHW-010391",
+  "amount": 110000,
+  "fee": 1650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-23T12:46:20Z"
+ },
+ {
+  "reference": "PSP-42555945",
+  "order_ref": "CHW-010392",
+  "amount": 1000000,
+  "fee": 25000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-23T13:08:01Z"
+ },
+ {
+  "reference": "PSP-84206990",
+  "order_ref": "CHW-010393",
+  "amount": 1135000,
+  "fee": 27025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-23T13:19:58Z"
+ },
+ {
+  "reference": "PSP-85563128",
+  "order_ref": "CHW-010394",
+  "amount": 280000,
+  "fee": 14200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-23T15:08:23Z"
+ },
+ {
+  "reference": "PSP-72686899",
+  "order_ref": "CHW-010396",
+  "amount": 330000,
+  "fee": 14950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-23T18:46:08Z"
+ },
+ {
+  "reference": "PSP-48290431",
+  "order_ref": "CHW-010398",
+  "amount": 615000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "ussd",
+  "created_at": "2026-09-23T19:28:29Z"
+ },
+ {
+  "reference": "PSP-12568134",
+  "order_ref": "CHW-010397",
+  "amount": 390000,
+  "fee": 15850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-23T19:35:35Z"
+ },
+ {
+  "reference": "PSP-23109324",
+  "order_ref": "CHW-010398",
+  "amount": 615000,
+  "fee": 19225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-23T20:16:19Z"
+ },
+ {
+  "reference": "PSP-70499548",
+  "order_ref": "CHW-010399",
+  "amount": 880000,
+  "fee": 23200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-23T20:24:23Z"
+ },
+ {
+  "reference": "PSP-41782869",
+  "order_ref": "CHW-010400",
+  "amount": 2665000,
+  "fee": 49975,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-23T21:27:30Z"
+ },
+ {
+  "reference": "PSP-74231087",
+  "order_ref": "CHW-010401",
+  "amount": 610000,
+  "fee": 19150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T09:40:57Z"
+ },
+ {
+  "reference": "PSP-49440947",
+  "order_ref": "CHW-010402",
+  "amount": 1760000,
+  "fee": 36400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T09:45:29Z"
+ },
+ {
+  "reference": "PSP-60128318",
+  "order_ref": "CHW-010403",
+  "amount": 1372750,
+  "fee": 30591,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T10:51:45Z"
+ },
+ {
+  "reference": "PSP-56409732",
+  "order_ref": "CHW-010404",
+  "amount": 1330000,
+  "fee": 29950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T11:14:46Z"
+ },
+ {
+  "reference": "PSP-38743405",
+  "order_ref": "CHW-010405",
+  "amount": 527250,
+  "fee": 17909,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T12:14:07Z"
+ },
+ {
+  "reference": "PSP-36607608",
+  "order_ref": "CHW-010406",
+  "amount": 709750,
+  "fee": 20646,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T13:28:43Z"
+ },
+ {
+  "reference": "PSP-49796087",
+  "order_ref": "CHW-010407",
+  "amount": 365500,
+  "fee": 15482,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-24T13:46:53Z"
+ },
+ {
+  "reference": "PSP-61893501",
+  "order_ref": "CHW-010408",
+  "amount": 35000,
+  "fee": 525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T14:12:41Z"
+ },
+ {
+  "reference": "PSP-30468290",
+  "order_ref": "CHW-010409",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T18:43:37Z"
+ },
+ {
+  "reference": "PSP-31249208",
+  "order_ref": "CHW-010410",
+  "amount": 330000,
+  "fee": 14950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T18:56:35Z"
+ },
+ {
+  "reference": "PSP-72641700",
+  "order_ref": "CHW-010412",
+  "amount": 297500,
+  "fee": 14462,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-24T19:04:36Z"
+ },
+ {
+  "reference": "PSP-29794260",
+  "order_ref": "CHW-010414",
+  "amount": 905000,
+  "fee": 23575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T20:29:17Z"
+ },
+ {
+  "reference": "PSP-10685401",
+  "order_ref": "CHW-010413",
+  "amount": 1347250,
+  "fee": 30209,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-24T20:32:04Z"
+ },
+ {
+  "reference": "PSP-64364434",
+  "order_ref": "CHW-010415",
+  "amount": 1730000,
+  "fee": 35950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-24T22:26:23Z"
+ },
+ {
+  "reference": "PSP-43006325",
+  "order_ref": "CHW-010417",
+  "amount": 873000,
+  "fee": 23095,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-25T11:38:19Z"
+ },
+ {
+  "reference": "PSP-44499624",
+  "order_ref": "CHW-010416",
+  "amount": 1615000,
+  "fee": 34225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T11:45:57Z"
+ },
+ {
+  "reference": "PSP-23460296",
+  "order_ref": "CHW-010420",
+  "amount": 220000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-09-25T11:57:26Z"
+ },
+ {
+  "reference": "PSP-19050062",
+  "order_ref": "CHW-010418",
+  "amount": 2455000,
+  "fee": 46825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-25T12:05:50Z"
+ },
+ {
+  "reference": "PSP-55236003",
+  "order_ref": "CHW-010419",
+  "amount": 1708500,
+  "fee": 35627,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T12:17:14Z"
+ },
+ {
+  "reference": "PSP-66534958",
+  "order_ref": "CHW-010420",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T12:32:42Z"
+ },
+ {
+  "reference": "PSP-60769205",
+  "order_ref": "CHW-010421",
+  "amount": 981000,
+  "fee": 24715,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T12:58:31Z"
+ },
+ {
+  "reference": "PSP-13738808",
+  "order_ref": "CHW-010422",
+  "amount": 535000,
+  "fee": 18025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T13:31:51Z"
+ },
+ {
+  "reference": "PSP-84992750",
+  "order_ref": "CHW-010423",
+  "amount": 565250,
+  "fee": 18479,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T13:44:48Z"
+ },
+ {
+  "reference": "PSP-67698560",
+  "order_ref": "CHW-010424",
+  "amount": 1710000,
+  "fee": 35650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T14:46:13Z"
+ },
+ {
+  "reference": "PSP-78848207",
+  "order_ref": "CHW-010425",
+  "amount": 850000,
+  "fee": 22750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T14:49:09Z"
+ },
+ {
+  "reference": "PSP-94888561",
+  "order_ref": "CHW-010426",
+  "amount": 1080000,
+  "fee": 26200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T16:53:48Z"
+ },
+ {
+  "reference": "PSP-86088619",
+  "order_ref": "CHW-010427",
+  "amount": 550000,
+  "fee": 18250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T17:05:13Z"
+ },
+ {
+  "reference": "PSP-59935250",
+  "order_ref": "CHW-010430",
+  "amount": 415000,
+  "fee": 16225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-25T18:13:55Z"
+ },
+ {
+  "reference": "PSP-96094518",
+  "order_ref": "CHW-010428",
+  "amount": 1210000,
+  "fee": 28150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T18:17:51Z"
+ },
+ {
+  "reference": "PSP-55023395",
+  "order_ref": "CHW-010429",
+  "amount": 330000,
+  "fee": 14950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T18:22:02Z"
+ },
+ {
+  "reference": "PSP-68955080",
+  "order_ref": "CHW-010431",
+  "amount": 720000,
+  "fee": 20800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T18:25:21Z"
+ },
+ {
+  "reference": "PSP-21503548",
+  "order_ref": "CHW-010432",
+  "amount": 1558000,
+  "fee": 33370,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-25T18:38:57Z"
+ },
+ {
+  "reference": "PSP-10442014",
+  "order_ref": "CHW-010434",
+  "amount": 1100000,
+  "fee": 26500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-25T19:21:29Z"
+ },
+ {
+  "reference": "PSP-86970330",
+  "order_ref": "CHW-010435",
+  "amount": 565000,
+  "fee": 18475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T19:53:51Z"
+ },
+ {
+  "reference": "PSP-32242098",
+  "order_ref": "CHW-010437",
+  "amount": 945000,
+  "fee": 24175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-25T20:10:46Z"
+ },
+ {
+  "reference": "PSP-33336514",
+  "order_ref": "CHW-010436",
+  "amount": 265000,
+  "fee": 13975,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T20:11:14Z"
+ },
+ {
+  "reference": "PSP-37742575",
+  "order_ref": "CHW-010439",
+  "amount": 739500,
+  "fee": 21093,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-25T21:48:54Z"
+ },
+ {
+  "reference": "PSP-23760947",
+  "order_ref": "CHW-010440",
+  "amount": 1145000,
+  "fee": 27175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T11:29:43Z"
+ },
+ {
+  "reference": "PSP-55561893",
+  "order_ref": "CHW-010442",
+  "amount": 495000,
+  "fee": 17425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T11:34:14Z"
+ },
+ {
+  "reference": "PSP-90108961",
+  "order_ref": "CHW-010441",
+  "amount": 68000,
+  "fee": 1020,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T11:38:25Z"
+ },
+ {
+  "reference": "PSP-47241515",
+  "order_ref": "CHW-010443",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T11:49:40Z"
+ },
+ {
+  "reference": "PSP-75332789",
+  "order_ref": "CHW-010445",
+  "amount": 1485000,
+  "fee": 32275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T12:44:18Z"
+ },
+ {
+  "reference": "PSP-27256991",
+  "order_ref": "CHW-010446",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-26T12:49:45Z"
+ },
+ {
+  "reference": "PSP-19747886",
+  "order_ref": "CHW-010447",
+  "amount": 1480000,
+  "fee": 32200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T13:21:57Z"
+ },
+ {
+  "reference": "PSP-49252768",
+  "order_ref": "CHW-010449",
+  "amount": 625000,
+  "fee": 19375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-26T13:22:02Z"
+ },
+ {
+  "reference": "PSP-56614132",
+  "order_ref": "CHW-010448",
+  "amount": 440000,
+  "fee": 16600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T13:25:30Z"
+ },
+ {
+  "reference": "PSP-42431825",
+  "order_ref": "CHW-010450",
+  "amount": 595000,
+  "fee": 18925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T14:01:36Z"
+ },
+ {
+  "reference": "PSP-63352108",
+  "order_ref": "CHW-010451",
+  "amount": 720000,
+  "fee": 20800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T15:31:15Z"
+ },
+ {
+  "reference": "PSP-13099816",
+  "order_ref": "CHW-010452",
+  "amount": 500000,
+  "fee": 17500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T16:08:02Z"
+ },
+ {
+  "reference": "PSP-23076543",
+  "order_ref": "CHW-010453",
+  "amount": 1010000,
+  "fee": 25150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T16:59:46Z"
+ },
+ {
+  "reference": "PSP-63122812",
+  "order_ref": "CHW-010454",
+  "amount": 450500,
+  "fee": 16757,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T17:13:38Z"
+ },
+ {
+  "reference": "PSP-74100208",
+  "order_ref": "CHW-010455",
+  "amount": 551000,
+  "fee": 18265,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T17:41:58Z"
+ },
+ {
+  "reference": "PSP-11643900",
+  "order_ref": "CHW-010456",
+  "amount": 2255000,
+  "fee": 43825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T17:56:41Z"
+ },
+ {
+  "reference": "PSP-87361746",
+  "order_ref": "CHW-010457",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-26T18:04:40Z"
+ },
+ {
+  "reference": "PSP-16872385",
+  "order_ref": "CHW-010459",
+  "amount": 50000,
+  "fee": 750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-26T18:20:37Z"
+ },
+ {
+  "reference": "PSP-29180186",
+  "order_ref": "CHW-010460",
+  "amount": 637500,
+  "fee": 19562,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-26T18:22:49Z"
+ },
+ {
+  "reference": "PSP-76240160",
+  "order_ref": "CHW-010458",
+  "amount": 2023500,
+  "fee": 40352,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T18:24:58Z"
+ },
+ {
+  "reference": "PSP-83280176",
+  "order_ref": "CHW-010462",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-26T20:00:58Z"
+ },
+ {
+  "reference": "PSP-38561369",
+  "order_ref": "CHW-010461",
+  "amount": 2170000,
+  "fee": 42550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-26T20:01:32Z"
+ },
+ {
+  "reference": "PSP-39288234",
+  "order_ref": "CHW-010463",
+  "amount": 55000,
+  "fee": 825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-27T11:15:30Z"
+ },
+ {
+  "reference": "PSP-84851882",
+  "order_ref": "CHW-010464",
+  "amount": 885000,
+  "fee": 23275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T12:43:43Z"
+ },
+ {
+  "reference": "PSP-26901987",
+  "order_ref": "CHW-010465",
+  "amount": 365000,
+  "fee": 15475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-27T12:51:30Z"
+ },
+ {
+  "reference": "PSP-79147312",
+  "order_ref": "CHW-010466",
+  "amount": 870000,
+  "fee": 23050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-27T14:34:38Z"
+ },
+ {
+  "reference": "PSP-48883869",
+  "order_ref": "CHW-010467",
+  "amount": 1720000,
+  "fee": 35800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T16:07:08Z"
+ },
+ {
+  "reference": "PSP-82998429",
+  "order_ref": "CHW-010468",
+  "amount": 1154250,
+  "fee": 27314,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T17:08:01Z"
+ },
+ {
+  "reference": "PSP-33432887",
+  "order_ref": "CHW-010469",
+  "amount": 640000,
+  "fee": 19600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T17:42:56Z"
+ },
+ {
+  "reference": "PSP-34068323",
+  "order_ref": "CHW-010470",
+  "amount": 1980000,
+  "fee": 39700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-27T18:01:32Z"
+ },
+ {
+  "reference": "PSP-97306580",
+  "order_ref": "CHW-010471",
+  "amount": 1470000,
+  "fee": 32050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-27T19:12:15Z"
+ },
+ {
+  "reference": "PSP-17814581",
+  "order_ref": "CHW-010472",
+  "amount": 1170000,
+  "fee": 27550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-27T19:17:34Z"
+ },
+ {
+  "reference": "PSP-18873148",
+  "order_ref": "CHW-010474",
+  "amount": 969000,
+  "fee": 24535,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T20:28:58Z"
+ },
+ {
+  "reference": "PSP-17487463",
+  "order_ref": "CHW-010473",
+  "amount": 160000,
+  "fee": 2400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T20:31:31Z"
+ },
+ {
+  "reference": "PSP-60140570",
+  "order_ref": "CHW-010475",
+  "amount": 1650000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-09-27T20:45:32Z"
+ },
+ {
+  "reference": "PSP-15731720",
+  "order_ref": "CHW-010475",
+  "amount": 1650000,
+  "fee": 34750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-27T21:33:39Z"
+ },
+ {
+  "reference": "PSP-24782321",
+  "order_ref": "CHW-010476",
+  "amount": 1660000,
+  "fee": 34900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-28T11:41:29Z"
+ },
+ {
+  "reference": "PSP-83504454",
+  "order_ref": "CHW-010477",
+  "amount": 1500000,
+  "fee": 32500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-28T12:03:46Z"
+ },
+ {
+  "reference": "PSP-33803284",
+  "order_ref": "CHW-010478",
+  "amount": 46750,
+  "fee": 701,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-28T12:32:55Z"
+ },
+ {
+  "reference": "PSP-88809619",
+  "order_ref": "CHW-010480",
+  "amount": 885000,
+  "fee": 23275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-28T13:11:53Z"
+ },
+ {
+  "reference": "PSP-81171903",
+  "order_ref": "CHW-010481",
+  "amount": 400000,
+  "fee": 16000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-28T13:55:37Z"
+ },
+ {
+  "reference": "PSP-58823752",
+  "order_ref": "CHW-010482",
+  "amount": 1262250,
+  "fee": 28934,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-28T17:12:40Z"
+ },
+ {
+  "reference": "PSP-92501557",
+  "order_ref": "CHW-010484",
+  "amount": 1015750,
+  "fee": 25236,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-28T17:40:06Z"
+ },
+ {
+  "reference": "PSP-28541660",
+  "order_ref": "CHW-010483",
+  "amount": 430000,
+  "fee": 16450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-28T17:49:22Z"
+ },
+ {
+  "reference": "PSP-29384416",
+  "order_ref": "CHW-010486",
+  "amount": 2100000,
+  "fee": 41500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-28T21:10:49Z"
+ },
+ {
+  "reference": "PSP-54959946",
+  "order_ref": "CHW-010487",
+  "amount": 1295000,
+  "fee": 29425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-28T22:05:36Z"
+ },
+ {
+  "reference": "PSP-41566278",
+  "order_ref": "CHW-010488",
+  "amount": 590000,
+  "fee": 18850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-29T09:36:25Z"
+ },
+ {
+  "reference": "PSP-91324928",
+  "order_ref": "CHW-010489",
+  "amount": 825000,
+  "fee": 22375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T11:00:37Z"
+ },
+ {
+  "reference": "PSP-98195450",
+  "order_ref": "CHW-010491",
+  "amount": 297500,
+  "fee": 14462,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-29T11:17:45Z"
+ },
+ {
+  "reference": "PSP-96342381",
+  "order_ref": "CHW-010492",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T11:30:31Z"
+ },
+ {
+  "reference": "PSP-42508774",
+  "order_ref": "CHW-010490",
+  "amount": 1181500,
+  "fee": 27723,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-29T11:34:16Z"
+ },
+ {
+  "reference": "PSP-91287286",
+  "order_ref": "CHW-010493",
+  "amount": 1124000,
+  "fee": 26860,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T11:39:53Z"
+ },
+ {
+  "reference": "PSP-24850966",
+  "order_ref": "CHW-010494",
+  "amount": 153000,
+  "fee": 2295,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T11:59:21Z"
+ },
+ {
+  "reference": "PSP-25677374",
+  "order_ref": "CHW-010495",
+  "amount": 992000,
+  "fee": 24880,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-29T13:16:06Z"
+ },
+ {
+  "reference": "PSP-50250026",
+  "order_ref": "CHW-010496",
+  "amount": 2615000,
+  "fee": 49225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T17:37:31Z"
+ },
+ {
+  "reference": "PSP-77616375",
+  "order_ref": "CHW-010497",
+  "amount": 132000,
+  "fee": 1980,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-29T18:00:40Z"
+ },
+ {
+  "reference": "PSP-91797128",
+  "order_ref": "CHW-010498",
+  "amount": 180000,
+  "fee": 2700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-29T19:14:57Z"
+ },
+ {
+  "reference": "PSP-70088897",
+  "order_ref": "CHW-010500",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-29T20:23:09Z"
+ },
+ {
+  "reference": "PSP-33196358",
+  "order_ref": "CHW-010501",
+  "amount": 550000,
+  "fee": 18250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-30T10:10:31Z"
+ },
+ {
+  "reference": "PSP-48838474",
+  "order_ref": "CHW-010502",
+  "amount": 100000,
+  "fee": 1500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-30T12:43:41Z"
+ },
+ {
+  "reference": "PSP-81668940",
+  "order_ref": "CHW-010503",
+  "amount": 560000,
+  "fee": 18400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-30T13:20:57Z"
+ },
+ {
+  "reference": "PSP-67661421",
+  "order_ref": "CHW-010504",
+  "amount": 47500,
+  "fee": 712,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-30T13:41:38Z"
+ },
+ {
+  "reference": "PSP-66598549",
+  "order_ref": "CHW-010505",
+  "amount": 1620000,
+  "fee": 34300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-30T13:46:46Z"
+ },
+ {
+  "reference": "PSP-60112002",
+  "order_ref": "CHW-010506",
+  "amount": 386750,
+  "fee": 15801,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-30T14:22:50Z"
+ },
+ {
+  "reference": "PSP-32867719",
+  "order_ref": "CHW-010508",
+  "amount": 300000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "ussd",
+  "created_at": "2026-09-30T16:28:13Z"
+ },
+ {
+  "reference": "PSP-41300934",
+  "order_ref": "CHW-010507",
+  "amount": 1840250,
+  "fee": 37604,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-09-30T16:39:50Z"
+ },
+ {
+  "reference": "PSP-14407421",
+  "order_ref": "CHW-010508",
+  "amount": 300000,
+  "fee": 14500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-30T17:08:28Z"
+ },
+ {
+  "reference": "PSP-46275739",
+  "order_ref": "CHW-010510",
+  "amount": 870000,
+  "fee": 23050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-30T18:07:11Z"
+ },
+ {
+  "reference": "PSP-23945850",
+  "order_ref": "CHW-010511",
+  "amount": 620000,
+  "fee": 19300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-09-30T18:20:54Z"
+ },
+ {
+  "reference": "PSP-16878880",
+  "order_ref": "CHW-010513",
+  "amount": 140000,
+  "fee": 2100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-09-30T20:28:20Z"
+ },
+ {
+  "reference": "PSP-37139223",
+  "order_ref": "CHW-010515",
+  "amount": 745000,
+  "fee": 21175,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T11:20:45Z"
+ },
+ {
+  "reference": "PSP-37576012",
+  "order_ref": "CHW-010516",
+  "amount": 1292000,
+  "fee": 29380,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T12:33:12Z"
+ },
+ {
+  "reference": "PSP-61789592",
+  "order_ref": "CHW-010517",
+  "amount": 290000,
+  "fee": 14350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T12:55:50Z"
+ },
+ {
+  "reference": "PSP-41476065",
+  "order_ref": "CHW-010519",
+  "amount": 1330000,
+  "fee": 29950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T14:09:18Z"
+ },
+ {
+  "reference": "PSP-42058408",
+  "order_ref": "CHW-010520",
+  "amount": 70000,
+  "fee": 1050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T14:27:52Z"
+ },
+ {
+  "reference": "PSP-18263319",
+  "order_ref": "CHW-010521",
+  "amount": 760000,
+  "fee": 21400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-01T16:03:42Z"
+ },
+ {
+  "reference": "PSP-17091949",
+  "order_ref": "CHW-010522",
+  "amount": 391000,
+  "fee": 15865,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-01T16:56:12Z"
+ },
+ {
+  "reference": "PSP-60834864",
+  "order_ref": "CHW-010525",
+  "amount": 1619750,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-10-01T18:35:44Z"
+ },
+ {
+  "reference": "PSP-89176003",
+  "order_ref": "CHW-010523",
+  "amount": 560000,
+  "fee": 18400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-01T18:55:46Z"
+ },
+ {
+  "reference": "PSP-85298477",
+  "order_ref": "CHW-010525",
+  "amount": 1619750,
+  "fee": 34296,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-01T19:02:31Z"
+ },
+ {
+  "reference": "PSP-87621367",
+  "order_ref": "CHW-010524",
+  "amount": 935000,
+  "fee": 24025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-01T19:19:22Z"
+ },
+ {
+  "reference": "PSP-65151634",
+  "order_ref": "CHW-010526",
+  "amount": 830000,
+  "fee": 22450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-01T19:31:40Z"
+ },
+ {
+  "reference": "PSP-77448077",
+  "order_ref": "CHW-010527",
+  "amount": 1568250,
+  "fee": 33524,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-01T19:47:01Z"
+ },
+ {
+  "reference": "PSP-17460347",
+  "order_ref": "CHW-010528",
+  "amount": 460000,
+  "fee": 16900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-01T21:24:53Z"
+ },
+ {
+  "reference": "PSP-18269112",
+  "order_ref": "CHW-010530",
+  "amount": 1156500,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "ussd",
+  "created_at": "2026-10-02T10:12:04Z"
+ },
+ {
+  "reference": "PSP-69417651",
+  "order_ref": "CHW-010529",
+  "amount": 1525000,
+  "fee": 32875,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-02T10:30:35Z"
+ },
+ {
+  "reference": "PSP-78936646",
+  "order_ref": "CHW-010530",
+  "amount": 1156500,
+  "fee": 27348,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-02T11:02:15Z"
+ },
+ {
+  "reference": "PSP-42573880",
+  "order_ref": "CHW-010532",
+  "amount": 35000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-02T11:47:46Z"
+ },
+ {
+  "reference": "PSP-18281159",
+  "order_ref": "CHW-010532",
+  "amount": 35000,
+  "fee": 525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T12:19:03Z"
+ },
+ {
+  "reference": "PSP-25718131",
+  "order_ref": "CHW-010534",
+  "amount": 844000,
+  "fee": 22660,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T12:50:06Z"
+ },
+ {
+  "reference": "PSP-91702245",
+  "order_ref": "CHW-010533",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-02T12:50:10Z"
+ },
+ {
+  "reference": "PSP-13000887",
+  "order_ref": "CHW-010535",
+  "amount": 616500,
+  "fee": 19247,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T13:55:36Z"
+ },
+ {
+  "reference": "PSP-50767534",
+  "order_ref": "CHW-010536",
+  "amount": 1512000,
+  "fee": 32680,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-02T14:06:00Z"
+ },
+ {
+  "reference": "PSP-26146170",
+  "order_ref": "CHW-010537",
+  "amount": 324000,
+  "fee": 14860,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-02T14:59:54Z"
+ },
+ {
+  "reference": "PSP-60791420",
+  "order_ref": "CHW-010539",
+  "amount": 697500,
+  "fee": 20462,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T16:15:07Z"
+ },
+ {
+  "reference": "PSP-46730526",
+  "order_ref": "CHW-010538",
+  "amount": 390000,
+  "fee": 15850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T16:21:14Z"
+ },
+ {
+  "reference": "PSP-99529750",
+  "order_ref": "CHW-010540",
+  "amount": 910000,
+  "fee": 23650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T16:39:27Z"
+ },
+ {
+  "reference": "PSP-65876507",
+  "order_ref": "CHW-010541",
+  "amount": 234000,
+  "fee": 3510,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-02T18:11:48Z"
+ },
+ {
+  "reference": "PSP-48273106",
+  "order_ref": "CHW-010542",
+  "amount": 2685000,
+  "fee": 50275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-02T18:18:47Z"
+ },
+ {
+  "reference": "PSP-60522989",
+  "order_ref": "CHW-010543",
+  "amount": 1452000,
+  "fee": 31780,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-02T18:51:59Z"
+ },
+ {
+  "reference": "PSP-37715782",
+  "order_ref": "CHW-010545",
+  "amount": 435000,
+  "fee": 16525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-02T19:31:36Z"
+ },
+ {
+  "reference": "PSP-52954181",
+  "order_ref": "CHW-010546",
+  "amount": 191250,
+  "fee": 2869,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T19:50:34Z"
+ },
+ {
+  "reference": "PSP-33934102",
+  "order_ref": "CHW-010547",
+  "amount": 220500,
+  "fee": 3307,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T19:59:58Z"
+ },
+ {
+  "reference": "PSP-46622827",
+  "order_ref": "CHW-010548",
+  "amount": 207000,
+  "fee": 3105,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T20:45:29Z"
+ },
+ {
+  "reference": "PSP-85943610",
+  "order_ref": "CHW-010549",
+  "amount": 448000,
+  "fee": 16720,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T20:46:42Z"
+ },
+ {
+  "reference": "PSP-53903694",
+  "order_ref": "CHW-010550",
+  "amount": 148500,
+  "fee": 2227,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-02T20:53:23Z"
+ },
+ {
+  "reference": "PSP-23066381",
+  "order_ref": "CHW-010551",
+  "amount": 420000,
+  "fee": 16300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-02T21:15:32Z"
+ },
+ {
+  "reference": "PSP-45165594",
+  "order_ref": "CHW-010555",
+  "amount": 900000,
+  "fee": 23500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T09:48:21Z"
+ },
+ {
+  "reference": "PSP-11277752",
+  "order_ref": "CHW-010553",
+  "amount": 440000,
+  "fee": 16600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T09:57:53Z"
+ },
+ {
+  "reference": "PSP-21368354",
+  "order_ref": "CHW-010556",
+  "amount": 1090000,
+  "fee": 26350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T10:41:18Z"
+ },
+ {
+  "reference": "PSP-39694969",
+  "order_ref": "CHW-010557",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T11:00:29Z"
+ },
+ {
+  "reference": "PSP-56697624",
+  "order_ref": "CHW-010558",
+  "amount": 630000,
+  "fee": 19450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T12:33:43Z"
+ },
+ {
+  "reference": "PSP-78170072",
+  "order_ref": "CHW-010560",
+  "amount": 1780000,
+  "fee": 36700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T12:54:44Z"
+ },
+ {
+  "reference": "PSP-13915223",
+  "order_ref": "CHW-010559",
+  "amount": 2230000,
+  "fee": 43450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T13:11:01Z"
+ },
+ {
+  "reference": "PSP-32105283",
+  "order_ref": "CHW-010562",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T13:25:52Z"
+ },
+ {
+  "reference": "PSP-86596281",
+  "order_ref": "CHW-010561",
+  "amount": 680000,
+  "fee": 20200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T13:41:05Z"
+ },
+ {
+  "reference": "PSP-40707510",
+  "order_ref": "CHW-010564",
+  "amount": 1212000,
+  "fee": 28180,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T16:46:32Z"
+ },
+ {
+  "reference": "PSP-77456952",
+  "order_ref": "CHW-010568",
+  "amount": 350000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-03T18:42:13Z"
+ },
+ {
+  "reference": "PSP-28689771",
+  "order_ref": "CHW-010565",
+  "amount": 1920000,
+  "fee": 38800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T18:44:13Z"
+ },
+ {
+  "reference": "PSP-64042680",
+  "order_ref": "CHW-010567",
+  "amount": 200000,
+  "fee": 3000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T18:59:50Z"
+ },
+ {
+  "reference": "PSP-23582282",
+  "order_ref": "CHW-010566",
+  "amount": 645000,
+  "fee": 19675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T19:10:23Z"
+ },
+ {
+  "reference": "PSP-46669212",
+  "order_ref": "CHW-010569",
+  "amount": 670000,
+  "fee": 20050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T19:17:44Z"
+ },
+ {
+  "reference": "PSP-55611539",
+  "order_ref": "CHW-010568",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T19:25:38Z"
+ },
+ {
+  "reference": "PSP-58198809",
+  "order_ref": "CHW-010571",
+  "amount": 468000,
+  "fee": 17020,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T19:26:34Z"
+ },
+ {
+  "reference": "PSP-37187558",
+  "order_ref": "CHW-010570",
+  "amount": 1016000,
+  "fee": 25240,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T19:41:17Z"
+ },
+ {
+  "reference": "PSP-89348590",
+  "order_ref": "CHW-010573",
+  "amount": 1521500,
+  "fee": 32823,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T20:11:37Z"
+ },
+ {
+  "reference": "PSP-11794964",
+  "order_ref": "CHW-010574",
+  "amount": 288000,
+  "fee": 14320,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T20:29:35Z"
+ },
+ {
+  "reference": "PSP-33501283",
+  "order_ref": "CHW-010572",
+  "amount": 790000,
+  "fee": 21850,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-03T20:29:44Z"
+ },
+ {
+  "reference": "PSP-86848198",
+  "order_ref": "CHW-010575",
+  "amount": 1765000,
+  "fee": 36475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-03T20:55:00Z"
+ },
+ {
+  "reference": "PSP-43107772",
+  "order_ref": "CHW-010576",
+  "amount": 690000,
+  "fee": 20350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-03T21:48:59Z"
+ },
+ {
+  "reference": "PSP-68358502",
+  "order_ref": "CHW-010577",
+  "amount": 1273000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-04T10:55:12Z"
+ },
+ {
+  "reference": "PSP-12056451",
+  "order_ref": "CHW-010577",
+  "amount": 1273000,
+  "fee": 29095,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T11:21:39Z"
+ },
+ {
+  "reference": "PSP-92026985",
+  "order_ref": "CHW-010578",
+  "amount": 295000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "transfer",
+  "created_at": "2026-10-04T13:13:00Z"
+ },
+ {
+  "reference": "PSP-17211815",
+  "order_ref": "CHW-010578",
+  "amount": 295000,
+  "fee": 14425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T13:44:36Z"
+ },
+ {
+  "reference": "PSP-20526502",
+  "order_ref": "CHW-010579",
+  "amount": 1126250,
+  "fee": 26894,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-04T14:00:07Z"
+ },
+ {
+  "reference": "PSP-14292873",
+  "order_ref": "CHW-010581",
+  "amount": 1423750,
+  "fee": 31356,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T16:18:15Z"
+ },
+ {
+  "reference": "PSP-62832588",
+  "order_ref": "CHW-010582",
+  "amount": 810000,
+  "fee": 22150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-04T16:31:57Z"
+ },
+ {
+  "reference": "PSP-86087631",
+  "order_ref": "CHW-010583",
+  "amount": 316000,
+  "fee": 14740,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T17:58:21Z"
+ },
+ {
+  "reference": "PSP-54205028",
+  "order_ref": "CHW-010586",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-04T18:39:24Z"
+ },
+ {
+  "reference": "PSP-11707610",
+  "order_ref": "CHW-010584",
+  "amount": 955000,
+  "fee": 24325,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-04T18:47:17Z"
+ },
+ {
+  "reference": "PSP-90871861",
+  "order_ref": "CHW-010585",
+  "amount": 1045000,
+  "fee": 25675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-04T18:52:14Z"
+ },
+ {
+  "reference": "PSP-12321932",
+  "order_ref": "CHW-010587",
+  "amount": 1282500,
+  "fee": 29238,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-04T19:19:46Z"
+ },
+ {
+  "reference": "PSP-58674124",
+  "order_ref": "CHW-010588",
+  "amount": 308000,
+  "fee": 14620,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T19:42:42Z"
+ },
+ {
+  "reference": "PSP-55839698",
+  "order_ref": "CHW-010590",
+  "amount": 570000,
+  "fee": 18550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T20:01:29Z"
+ },
+ {
+  "reference": "PSP-50415995",
+  "order_ref": "CHW-010589",
+  "amount": 435000,
+  "fee": 16525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-04T20:12:53Z"
+ },
+ {
+  "reference": "PSP-16324135",
+  "order_ref": "CHW-010591",
+  "amount": 905250,
+  "fee": 23579,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-05T12:42:00Z"
+ },
+ {
+  "reference": "PSP-59637357",
+  "order_ref": "CHW-010592",
+  "amount": 2055000,
+  "fee": 40825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-05T12:45:48Z"
+ },
+ {
+  "reference": "PSP-23640023",
+  "order_ref": "CHW-010593",
+  "amount": 888250,
+  "fee": 23324,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-05T15:11:23Z"
+ },
+ {
+  "reference": "PSP-39053583",
+  "order_ref": "CHW-010594",
+  "amount": 70000,
+  "fee": 1050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-05T17:05:07Z"
+ },
+ {
+  "reference": "PSP-24999801",
+  "order_ref": "CHW-010596",
+  "amount": 275000,
+  "fee": 14125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-05T19:05:08Z"
+ },
+ {
+  "reference": "PSP-77896958",
+  "order_ref": "CHW-010597",
+  "amount": 1156000,
+  "fee": 27340,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-05T19:20:09Z"
+ },
+ {
+  "reference": "PSP-84193973",
+  "order_ref": "CHW-010598",
+  "amount": 880000,
+  "fee": 23200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-05T19:29:54Z"
+ },
+ {
+  "reference": "PSP-60630396",
+  "order_ref": "CHW-010599",
+  "amount": 493000,
+  "fee": 17395,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-05T19:48:18Z"
+ },
+ {
+  "reference": "PSP-78218222",
+  "order_ref": "CHW-010600",
+  "amount": 1555500,
+  "fee": 33332,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-05T21:16:30Z"
+ },
+ {
+  "reference": "PSP-56102047",
+  "order_ref": "CHW-010601",
+  "amount": 2380000,
+  "fee": 45700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T09:28:58Z"
+ },
+ {
+  "reference": "PSP-89504625",
+  "order_ref": "CHW-010602",
+  "amount": 360000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-06T11:03:01Z"
+ },
+ {
+  "reference": "PSP-19102736",
+  "order_ref": "CHW-010602",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-06T11:50:23Z"
+ },
+ {
+  "reference": "PSP-76600693",
+  "order_ref": "CHW-010603",
+  "amount": 85500,
+  "fee": 1282,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-06T11:57:54Z"
+ },
+ {
+  "reference": "PSP-85154077",
+  "order_ref": "CHW-010604",
+  "amount": 1180000,
+  "fee": 27700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-06T12:18:13Z"
+ },
+ {
+  "reference": "PSP-24702751",
+  "order_ref": "CHW-010606",
+  "amount": 800000,
+  "fee": 22000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T12:28:00Z"
+ },
+ {
+  "reference": "PSP-73231229",
+  "order_ref": "CHW-010605",
+  "amount": 1475000,
+  "fee": 32125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T12:35:56Z"
+ },
+ {
+  "reference": "PSP-51331106",
+  "order_ref": "CHW-010609",
+  "amount": 160000,
+  "fee": 2400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T16:15:44Z"
+ },
+ {
+  "reference": "PSP-46986770",
+  "order_ref": "CHW-010610",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-06T17:30:57Z"
+ },
+ {
+  "reference": "PSP-64059110",
+  "order_ref": "CHW-010611",
+  "amount": 685000,
+  "fee": 20275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T19:01:04Z"
+ },
+ {
+  "reference": "PSP-97599247",
+  "order_ref": "CHW-010612",
+  "amount": 970000,
+  "fee": 24550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-06T19:24:16Z"
+ },
+ {
+  "reference": "PSP-40135509",
+  "order_ref": "CHW-010613",
+  "amount": 375000,
+  "fee": 15625,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-06T19:42:19Z"
+ },
+ {
+  "reference": "PSP-69211477",
+  "order_ref": "CHW-010614",
+  "amount": 425000,
+  "fee": 16375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-06T19:55:02Z"
+ },
+ {
+  "reference": "PSP-58166562",
+  "order_ref": "CHW-010615",
+  "amount": 1786000,
+  "fee": 36790,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-07T10:32:34Z"
+ },
+ {
+  "reference": "PSP-77005929",
+  "order_ref": "CHW-010616",
+  "amount": 485000,
+  "fee": 17275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T11:51:30Z"
+ },
+ {
+  "reference": "PSP-64337836",
+  "order_ref": "CHW-010617",
+  "amount": 100000,
+  "fee": 1500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T12:36:38Z"
+ },
+ {
+  "reference": "PSP-74378510",
+  "order_ref": "CHW-010618",
+  "amount": 350000,
+  "fee": 15250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T12:49:47Z"
+ },
+ {
+  "reference": "PSP-73357837",
+  "order_ref": "CHW-010620",
+  "amount": 1870000,
+  "fee": 38050,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-07T15:32:44Z"
+ },
+ {
+  "reference": "PSP-28539858",
+  "order_ref": "CHW-010621",
+  "amount": 500000,
+  "fee": 17500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-07T16:17:25Z"
+ },
+ {
+  "reference": "PSP-26274334",
+  "order_ref": "CHW-010622",
+  "amount": 1235000,
+  "fee": 28525,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-07T17:53:26Z"
+ },
+ {
+  "reference": "PSP-77936577",
+  "order_ref": "CHW-010623",
+  "amount": 2360000,
+  "fee": 45400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T18:12:06Z"
+ },
+ {
+  "reference": "PSP-25726272",
+  "order_ref": "CHW-010624",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T19:07:53Z"
+ },
+ {
+  "reference": "PSP-83601203",
+  "order_ref": "CHW-010626",
+  "amount": 700000,
+  "fee": 20500,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T19:13:14Z"
+ },
+ {
+  "reference": "PSP-78481592",
+  "order_ref": "CHW-010625",
+  "amount": 1250000,
+  "fee": 28750,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T19:19:51Z"
+ },
+ {
+  "reference": "PSP-75853496",
+  "order_ref": "CHW-010627",
+  "amount": 1619250,
+  "fee": 34289,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T19:35:36Z"
+ },
+ {
+  "reference": "PSP-98787356",
+  "order_ref": "CHW-010629",
+  "amount": 275000,
+  "fee": 14125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-07T19:43:18Z"
+ },
+ {
+  "reference": "PSP-93135826",
+  "order_ref": "CHW-010628",
+  "amount": 665000,
+  "fee": 19975,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-07T19:46:14Z"
+ },
+ {
+  "reference": "PSP-77425864",
+  "order_ref": "CHW-010630",
+  "amount": 947750,
+  "fee": 24216,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-07T21:10:06Z"
+ },
+ {
+  "reference": "PSP-41880160",
+  "order_ref": "CHW-010631",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T09:49:43Z"
+ },
+ {
+  "reference": "PSP-63371395",
+  "order_ref": "CHW-010632",
+  "amount": 1010000,
+  "fee": 25150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T11:25:31Z"
+ },
+ {
+  "reference": "PSP-43551097",
+  "order_ref": "CHW-010633",
+  "amount": 1805000,
+  "fee": 37075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T13:35:37Z"
+ },
+ {
+  "reference": "PSP-94899723",
+  "order_ref": "CHW-010634",
+  "amount": 610000,
+  "fee": 19150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-08T14:08:40Z"
+ },
+ {
+  "reference": "PSP-56638219",
+  "order_ref": "CHW-010635",
+  "amount": 60000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-08T14:37:24Z"
+ },
+ {
+  "reference": "PSP-87351692",
+  "order_ref": "CHW-010635",
+  "amount": 60000,
+  "fee": 900,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T15:15:58Z"
+ },
+ {
+  "reference": "PSP-99839826",
+  "order_ref": "CHW-010636",
+  "amount": 254500,
+  "fee": 13818,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T15:40:46Z"
+ },
+ {
+  "reference": "PSP-75906002",
+  "order_ref": "CHW-010637",
+  "amount": 90000,
+  "fee": 1350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-08T16:32:17Z"
+ },
+ {
+  "reference": "PSP-70000613",
+  "order_ref": "CHW-010638",
+  "amount": 140000,
+  "fee": 2100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T17:35:55Z"
+ },
+ {
+  "reference": "PSP-46802341",
+  "order_ref": "CHW-010639",
+  "amount": 95000,
+  "fee": 1425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-08T17:50:38Z"
+ },
+ {
+  "reference": "PSP-56272445",
+  "order_ref": "CHW-010640",
+  "amount": 546250,
+  "fee": 18194,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T17:53:21Z"
+ },
+ {
+  "reference": "PSP-62556911",
+  "order_ref": "CHW-010641",
+  "amount": 455000,
+  "fee": 16825,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-08T18:21:11Z"
+ },
+ {
+  "reference": "PSP-48379267",
+  "order_ref": "CHW-010643",
+  "amount": 1041250,
+  "fee": 25619,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T19:08:44Z"
+ },
+ {
+  "reference": "PSP-55351387",
+  "order_ref": "CHW-010644",
+  "amount": 535000,
+  "fee": 18025,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-08T19:13:39Z"
+ },
+ {
+  "reference": "PSP-90210328",
+  "order_ref": "CHW-010645",
+  "amount": 714000,
+  "fee": 20710,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-08T20:05:02Z"
+ },
+ {
+  "reference": "PSP-90781935",
+  "order_ref": "CHW-010646",
+  "amount": 382500,
+  "fee": 15738,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-08T20:13:18Z"
+ },
+ {
+  "reference": "PSP-63559534",
+  "order_ref": "CHW-010647",
+  "amount": 437750,
+  "fee": 16566,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T20:43:00Z"
+ },
+ {
+  "reference": "PSP-41256712",
+  "order_ref": "CHW-010648",
+  "amount": 440000,
+  "fee": 16600,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-08T20:44:02Z"
+ },
+ {
+  "reference": "PSP-62475771",
+  "order_ref": "CHW-010649",
+  "amount": 360000,
+  "fee": 15400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T11:16:12Z"
+ },
+ {
+  "reference": "PSP-39105113",
+  "order_ref": "CHW-010650",
+  "amount": 310000,
+  "fee": 14650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T11:48:39Z"
+ },
+ {
+  "reference": "PSP-29135009",
+  "order_ref": "CHW-010652",
+  "amount": 323000,
+  "fee": 14845,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T12:05:26Z"
+ },
+ {
+  "reference": "PSP-95213643",
+  "order_ref": "CHW-010654",
+  "amount": 1120500,
+  "fee": 26807,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T12:30:59Z"
+ },
+ {
+  "reference": "PSP-89625421",
+  "order_ref": "CHW-010655",
+  "amount": 1575000,
+  "fee": 33625,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-09T12:50:41Z"
+ },
+ {
+  "reference": "PSP-46727355",
+  "order_ref": "CHW-010656",
+  "amount": 422750,
+  "fee": 16341,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T13:06:06Z"
+ },
+ {
+  "reference": "PSP-19937977",
+  "order_ref": "CHW-010659",
+  "amount": 117000,
+  "fee": 1755,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T13:12:19Z"
+ },
+ {
+  "reference": "PSP-44220041",
+  "order_ref": "CHW-010658",
+  "amount": 441750,
+  "fee": 16626,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T13:16:19Z"
+ },
+ {
+  "reference": "PSP-45979724",
+  "order_ref": "CHW-010660",
+  "amount": 930000,
+  "fee": 23950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T13:25:43Z"
+ },
+ {
+  "reference": "PSP-14849968",
+  "order_ref": "CHW-010657",
+  "amount": 499500,
+  "fee": 17493,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T13:27:27Z"
+ },
+ {
+  "reference": "PSP-14679768",
+  "order_ref": "CHW-010661",
+  "amount": 800000,
+  "fee": 22000,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T14:22:31Z"
+ },
+ {
+  "reference": "PSP-98033574",
+  "order_ref": "CHW-010663",
+  "amount": 220000,
+  "fee": 3300,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T15:31:54Z"
+ },
+ {
+  "reference": "PSP-53639572",
+  "order_ref": "CHW-010662",
+  "amount": 490000,
+  "fee": 17350,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T15:36:38Z"
+ },
+ {
+  "reference": "PSP-35562832",
+  "order_ref": "CHW-010664",
+  "amount": 540000,
+  "fee": 18100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T17:17:00Z"
+ },
+ {
+  "reference": "PSP-80784053",
+  "order_ref": "CHW-010666",
+  "amount": 504000,
+  "fee": 17560,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T18:43:28Z"
+ },
+ {
+  "reference": "PSP-73459902",
+  "order_ref": "CHW-010665",
+  "amount": 110000,
+  "fee": 1650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T18:45:29Z"
+ },
+ {
+  "reference": "PSP-23923929",
+  "order_ref": "CHW-010668",
+  "amount": 405000,
+  "fee": 16075,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T19:24:54Z"
+ },
+ {
+  "reference": "PSP-90015246",
+  "order_ref": "CHW-010670",
+  "amount": 930000,
+  "fee": 23950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T19:52:01Z"
+ },
+ {
+  "reference": "PSP-81794808",
+  "order_ref": "CHW-010671",
+  "amount": 760000,
+  "fee": 21400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T20:04:49Z"
+ },
+ {
+  "reference": "PSP-56495447",
+  "order_ref": "CHW-010673",
+  "amount": 1505000,
+  "fee": 32575,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T21:15:47Z"
+ },
+ {
+  "reference": "PSP-31720012",
+  "order_ref": "CHW-010674",
+  "amount": 1720000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "ussd",
+  "created_at": "2026-10-09T21:34:26Z"
+ },
+ {
+  "reference": "PSP-37937792",
+  "order_ref": "CHW-010675",
+  "amount": 76500,
+  "fee": 1147,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-09T22:05:28Z"
+ },
+ {
+  "reference": "PSP-50476011",
+  "order_ref": "CHW-010674",
+  "amount": 1720000,
+  "fee": 35800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-09T22:22:27Z"
+ },
+ {
+  "reference": "PSP-14500272",
+  "order_ref": "CHW-010676",
+  "amount": 170000,
+  "fee": 2550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T11:32:34Z"
+ },
+ {
+  "reference": "PSP-79743758",
+  "order_ref": "CHW-010677",
+  "amount": 645000,
+  "fee": 19675,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T11:40:11Z"
+ },
+ {
+  "reference": "PSP-90358056",
+  "order_ref": "CHW-010679",
+  "amount": 1415000,
+  "fee": 31225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T12:52:44Z"
+ },
+ {
+  "reference": "PSP-13320065",
+  "order_ref": "CHW-010680",
+  "amount": 625000,
+  "fee": 19375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T13:04:10Z"
+ },
+ {
+  "reference": "PSP-21069221",
+  "order_ref": "CHW-010681",
+  "amount": 1765000,
+  "fee": 36475,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T13:34:03Z"
+ },
+ {
+  "reference": "PSP-29236758",
+  "order_ref": "CHW-010682",
+  "amount": 1520000,
+  "fee": 32800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T13:49:28Z"
+ },
+ {
+  "reference": "PSP-35990283",
+  "order_ref": "CHW-010684",
+  "amount": 1933250,
+  "fee": 38999,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T14:21:00Z"
+ },
+ {
+  "reference": "PSP-92073803",
+  "order_ref": "CHW-010685",
+  "amount": 225000,
+  "fee": 3375,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T14:36:44Z"
+ },
+ {
+  "reference": "PSP-61799768",
+  "order_ref": "CHW-010686",
+  "amount": 76500,
+  "fee": 1147,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-10T15:46:23Z"
+ },
+ {
+  "reference": "PSP-49766373",
+  "order_ref": "CHW-010687",
+  "amount": 2116500,
+  "fee": 41747,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-10T16:22:59Z"
+ },
+ {
+  "reference": "PSP-73556519",
+  "order_ref": "CHW-010688",
+  "amount": 1710000,
+  "fee": 35650,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-10T18:29:09Z"
+ },
+ {
+  "reference": "PSP-77722391",
+  "order_ref": "CHW-010689",
+  "amount": 1160000,
+  "fee": 27400,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-10T18:37:08Z"
+ },
+ {
+  "reference": "PSP-58931140",
+  "order_ref": "CHW-010696",
+  "amount": 1395000,
+  "fee": 0,
+  "currency": "NGN",
+  "status": "failed",
+  "channel": "card",
+  "created_at": "2026-10-10T19:20:07Z"
+ },
+ {
+  "reference": "PSP-42279665",
+  "order_ref": "CHW-010692",
+  "amount": 1030000,
+  "fee": 25450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-10T19:30:32Z"
+ },
+ {
+  "reference": "PSP-61001317",
+  "order_ref": "CHW-010693",
+  "amount": 785000,
+  "fee": 21775,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-10T19:30:44Z"
+ },
+ {
+  "reference": "PSP-21384535",
+  "order_ref": "CHW-010694",
+  "amount": 1075000,
+  "fee": 26125,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T19:42:20Z"
+ },
+ {
+  "reference": "PSP-52810053",
+  "order_ref": "CHW-010697",
+  "amount": 522500,
+  "fee": 17838,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T20:00:38Z"
+ },
+ {
+  "reference": "PSP-47363003",
+  "order_ref": "CHW-010695",
+  "amount": 415000,
+  "fee": 16225,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-10T20:02:14Z"
+ },
+ {
+  "reference": "PSP-98503001",
+  "order_ref": "CHW-010696",
+  "amount": 1395000,
+  "fee": 30925,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-10T20:02:59Z"
+ },
+ {
+  "reference": "PSP-80946046",
+  "order_ref": "CHW-010698",
+  "amount": 1180000,
+  "fee": 27700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-10T20:22:35Z"
+ },
+ {
+  "reference": "PSP-75507736",
+  "order_ref": "CHW-010699",
+  "amount": 1030000,
+  "fee": 25450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-10T21:45:31Z"
+ },
+ {
+  "reference": "PSP-58738433",
+  "order_ref": "CHW-010701",
+  "amount": 85000,
+  "fee": 1275,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T12:15:52Z"
+ },
+ {
+  "reference": "PSP-85047401",
+  "order_ref": "CHW-010702",
+  "amount": 1940000,
+  "fee": 39100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T12:30:16Z"
+ },
+ {
+  "reference": "PSP-78435706",
+  "order_ref": "CHW-010703",
+  "amount": 410000,
+  "fee": 16150,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T13:01:36Z"
+ },
+ {
+  "reference": "PSP-49201808",
+  "order_ref": "CHW-010704",
+  "amount": 1695000,
+  "fee": 35425,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T13:21:57Z"
+ },
+ {
+  "reference": "PSP-44672929",
+  "order_ref": "CHW-010705",
+  "amount": 1296250,
+  "fee": 29444,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-11T13:50:51Z"
+ },
+ {
+  "reference": "PSP-51445703",
+  "order_ref": "CHW-010706",
+  "amount": 140000,
+  "fee": 2100,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T15:07:22Z"
+ },
+ {
+  "reference": "PSP-87851903",
+  "order_ref": "CHW-010707",
+  "amount": 1930000,
+  "fee": 38950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T15:40:02Z"
+ },
+ {
+  "reference": "PSP-50918505",
+  "order_ref": "CHW-010709",
+  "amount": 555750,
+  "fee": 18336,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T17:48:47Z"
+ },
+ {
+  "reference": "PSP-26931249",
+  "order_ref": "CHW-010710",
+  "amount": 1120000,
+  "fee": 26800,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T18:29:36Z"
+ },
+ {
+  "reference": "PSP-54728686",
+  "order_ref": "CHW-010711",
+  "amount": 170000,
+  "fee": 2550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-11T18:46:41Z"
+ },
+ {
+  "reference": "PSP-53884181",
+  "order_ref": "CHW-010712",
+  "amount": 1785000,
+  "fee": 36775,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-11T19:13:36Z"
+ },
+ {
+  "reference": "PSP-49321928",
+  "order_ref": "CHW-010713",
+  "amount": 430000,
+  "fee": 16450,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T19:40:30Z"
+ },
+ {
+  "reference": "PSP-90225537",
+  "order_ref": "CHW-010714",
+  "amount": 580000,
+  "fee": 18700,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-11T20:02:47Z"
+ },
+ {
+  "reference": "PSP-59268344",
+  "order_ref": "CHW-010716",
+  "amount": 1080000,
+  "fee": 26200,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T21:18:01Z"
+ },
+ {
+  "reference": "PSP-33087126",
+  "order_ref": "CHW-010715",
+  "amount": 950000,
+  "fee": 24250,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "card",
+  "created_at": "2026-10-11T21:25:49Z"
+ },
+ {
+  "reference": "PSP-23800242",
+  "order_ref": "CHW-010718",
+  "amount": 1970000,
+  "fee": 39550,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "ussd",
+  "created_at": "2026-10-12T12:29:20Z"
+ },
+ {
+  "reference": "PSP-69636683",
+  "order_ref": "CHW-010717",
+  "amount": 1330000,
+  "fee": 29950,
+  "currency": "NGN",
+  "status": "success",
+  "channel": "transfer",
+  "created_at": "2026-10-12T12:39:58Z"
+ }
+]
